@@ -4,7 +4,7 @@ library(dplyr)
 control <- read_csv("data-raw/ultimatum_t1 (accessed 2017-02-09) copy.csv")
 timespent <- read_csv("data-raw/TimeSpent (accessed 2017-02-09).csv")
 survey <- read_excel("data-raw/Post-experiment+questionnaire_February+9%2C+2017_10.41.xls")
-
+# filter my tests
 control <-
   control %>%
   dplyr::filter(participant.mturk_worker_id != "") %>%
