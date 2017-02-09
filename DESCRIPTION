@@ -1,0 +1,9 @@
+Package: framingdata2017
+Title: Data for economic decision making MA study 2017
+Version: 0.0.0.9000
+Authors@R: person("Aaron", "Lightner", email = "aaron.lightner@wsu.edu", role = c("aut", "cre"))
+Description: Many studies have documented framing effects in the ultimatum game (UG). These studies, however, have tended to use minimal framing cues (e.g., a single sentence labeling the frame), the frames did not involve unambiguous offer expectations, and results often did not differ substantially from those in the unframed UG. Here we test the hypothesis that in an UG explicitly framed as a well-known Western economic institution -- currency exchange -- players will make offers that conform closely to expectations for this institution (<15% to the banker and >85% to the customer) and diverge substantially from the modal offer in the unframed UG (e.g., 60% to the proposer and 40% to the responder). Participants recruited from MTurk [will be] randomized into one of two conditions. In the control condition, participants play a standard UG. In the treatment condition, players are provided a vignette that explicitly describes both the frame and their roles in the frame -- customer or banker. We predict that (1) modal offers in the treatment condition will involve an approximately 15%-85% split compared to about 40%-60% in the control condition, and (2) variation in offers will be significantly less in the treatment than in the control condition.
+Depends: R (>= 3.2.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
