@@ -124,8 +124,47 @@ ca$fairoffer <- as.numeric(ca$fairoffer)
 ca$forex_exp[ca$forex_exp=='&nbsp;'] <- NA
 ca$travel_exp[ca$travel_exp=='&nbsp;'] <- NA
 
-UG.control <- ca
+ca <- ca %>%
+  rename(validcode = userid,
+         userid = participant.code,
+         mTurkCode = `Q1_2 - Topics`)
+ca$app[ca$app=='ultimatum_t1'] <- 'control'
 
+### data manipulations #################
+
+ca$offer <- ca$offer*100
+
+ca$howfelt <- factor(ca$howfelt, levels = c('Very negatively',
+                                            'Somewhat negatively',
+                                            'Neutral',
+                                            'Somewhat positively',
+                                            'Very positively'))
+ca$howfelt <- as.integer(ca$howfelt)
+
+ca$fairoutcome <- factor(ca$fairoutcome, levels = c('Strongly disagree',
+                                                    'Somewhat disagree',
+                                                    'Neither agree nor disagree',
+                                                    'Somewhat agree',
+                                                    'Strongly agree'))
+ca$fairoutcome <- as.integer(ca$fairoutcome)
+
+ca$forex_exp <- factor(ca$forex_exp, levels = c('No experience at all',
+                                                'Lower than average',
+                                                'Some experience',
+                                                'Higher than average',
+                                                'Extensive experience'))
+ca$forex_exp <- as.integer(ca$forex_exp)
+
+ca$travel_exp <- factor(ca$travel_exp, levels = c('No experience at all',
+                                                'Lower than average',
+                                                'Some experience',
+                                                'Higher than average',
+                                                'Extensive experience'))
+ca$travel_exp <- as.integer(ca$travel_exp)
+
+## SVO still...
+
+UG.control <- ca
 use_data(UG.control, overwrite = TRUE)
 
 

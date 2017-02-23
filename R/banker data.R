@@ -10,10 +10,10 @@ d <- read_csv("TimeSpent (accessed 2017-02-14) (1).csv")
 df <- read_csv("ultimatum_banker (accessed 2017-02-14) (1).csv")
 surv <- read_csv("Post-experiment+questionnaire+-+Treatment_February+14%2C+2017_05.05 (1).csv")
 
-setwd("~/Desktop/MA Thesis/Banker data 2")
-e <- read_csv("TimeSpent (accessed 2017-02-23).csv")
-ef <- read_csv("ultimatum_banker (accessed 2017-02-23) (2).csv")
-surv2 <- read_csv("Updated+-+Banker+treatment_February+22%2C+2017_23.17 (1).csv")
+setwd("~/Desktop/MA Thesis/Banker data 2/banker 3")
+e <- read_csv("TimeSpent (accessed 2017-02-23) (1).csv")
+ef <- read_csv("ultimatum_banker (accessed 2017-02-23) (5).csv")
+surv2 <- read_csv("latest banker survey.csv")
 
 df <- df %>%
   rename(userid = participant.code)
@@ -21,7 +21,6 @@ df <- df %>%
 # rename(userid = participant__code)
 
 b <- left_join(df, surv, by="userid")
-#a <- left_join(a, d, by="userid")
 b <- b[,-c(49,80)]
 b <- b %>%
   dplyr::filter(participant.mturk_worker_id != "") %>%
@@ -56,12 +55,12 @@ reps <- c('A19F75QCU199K8', 'A1D9FOXZ0UT0L2', 'A2AAY4VT9L71SY','A2AUDQQQALH4Q8',
           'A33KTU8KJ5CP2T','A3SOJWB6AZWZV9','A3VA5UDZ327VT0','A3VANXT8EEKXQA',
           'A8P66AMRDFLLT','AAGZ40ERLMIPB', 'AELFDOPFPTHT0', 'AHDW0M4017Z8K',
           'AK467M5VTG7N4', 'AKHVXXXX53S5G')
-#b.reps <- subset(b, participant.mturk_worker_id %in% reps )
-#b <- subset(b, !(participant.mturk_worker_id %in% reps))
-#b.reps <- rbind(b.reps,
- #               subset(b, subsessionid %in% b.reps$subsessionid))
-#b <- subset(b, !(subsessionid %in% b.reps$subsessionid))
-#b.reps
+b.reps <- subset(b, participant.mturk_worker_id %in% reps )
+b <- subset(b, !(participant.mturk_worker_id %in% reps))
+b.reps <- rbind(b.reps,
+                subset(b, subsessionid %in% b.reps$subsessionid))
+b <- subset(b, !(subsessionid %in% b.reps$subsessionid))
+b.reps
 
 ## "anomalous data"
 #anom <- subset(a, a$offer > 20)
@@ -208,8 +207,40 @@ c$fairoffer <- as.numeric(c$fairoffer)
 
 c$forex_exp[c$forex_exp=='&nbsp;'] <- NA
 c$travel_exp[c$travel_exp=='&nbsp;'] <- NA
+c$app[c$app=='ultimatum_banker'] <- 'banker'
+ca <- c
 
-UG.banker <- c
+## data manipulation #####
+
+ca$howfelt <- factor(ca$howfelt, levels = c('Very negatively',
+                                            'Somewhat negatively',
+                                            'Neutral',
+                                            'Somewhat positively',
+                                            'Very positively'))
+ca$howfelt <- as.integer(ca$howfelt)
+
+ca$fairoutcome <- factor(ca$fairoutcome, levels = c('Strongly disagree',
+                                                    'Somewhat disagree',
+                                                    'Neither agree nor disagree',
+                                                    'Somewhat agree',
+                                                    'Strongly agree'))
+ca$fairoutcome <- as.integer(ca$fairoutcome)
+
+ca$forex_exp <- factor(ca$forex_exp, levels = c('No experience at all',
+                                                'Lower than average',
+                                                'Some experience',
+                                                'Higher than average',
+                                                'Extensive experience'))
+ca$forex_exp <- as.integer(ca$forex_exp)
+
+ca$travel_exp <- factor(ca$travel_exp, levels = c('No experience at all',
+                                                  'Lower than average',
+                                                  'Some experience',
+                                                  'Higher than average',
+                                                  'Extensive experience'))
+ca$travel_exp <- as.integer(ca$travel_exp)
+
+UG.banker <- ca
 setwd("~/Desktop/MA Thesis/framingdata2017")
 use_data(UG.banker, overwrite = TRUE)
 

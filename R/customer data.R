@@ -212,8 +212,40 @@ c$fairoffer <- as.numeric(c$fairoffer)
 
 c$forex_exp[c$forex_exp=='&nbsp;'] <- NA
 c$travel_exp[c$travel_exp=='&nbsp;'] <- NA
+c$app[c$app=='ultimatum_customer'] <- 'customer'
+ca <- c
 
-UG.customer <- c
+## data manipulation #####
+
+ca$howfelt <- factor(ca$howfelt, levels = c('Very negatively',
+                                            'Somewhat negatively',
+                                            'Neutral',
+                                            'Somewhat positively',
+                                            'Very positively'))
+ca$howfelt <- as.integer(ca$howfelt)
+
+ca$fairoutcome <- factor(ca$fairoutcome, levels = c('Strongly disagree',
+                                                    'Somewhat disagree',
+                                                    'Neither agree nor disagree',
+                                                    'Somewhat agree',
+                                                    'Strongly agree'))
+ca$fairoutcome <- as.integer(ca$fairoutcome)
+
+ca$forex_exp <- factor(ca$forex_exp, levels = c('No experience at all',
+                                                'Lower than average',
+                                                'Some experience',
+                                                'Higher than average',
+                                                'Extensive experience'))
+ca$forex_exp <- as.integer(ca$forex_exp)
+
+ca$travel_exp <- factor(ca$travel_exp, levels = c('No experience at all',
+                                                  'Lower than average',
+                                                  'Some experience',
+                                                  'Higher than average',
+                                                  'Extensive experience'))
+ca$travel_exp <- as.integer(ca$travel_exp)
+
+UG.customer <- ca
 ### saves data to package with git commit ####
 setwd("~/Desktop/MA Thesis/framingdata2017")
 use_data(UG.customer, overwrite = TRUE)
