@@ -2,9 +2,14 @@ library(readr)
 library(readxl)
 library(dplyr)
 library(devtools)
+setwd("~/Desktop/MA Thesis/framingdata2017")
 control.data <- read_csv("data-raw/ultimatum_t1 (accessed 2017-02-09) copy.csv")
 control.timespent <- read_csv("data-raw/TimeSpent (accessed 2017-02-09).csv")
 control.survey <- read_excel("data-raw/Post-experiment+questionnaire_February+9%2C+2017_10.41.xls")
+banker.data <- read_csv("data-raw/ultimatum_banker (accessed 2017-02-14) (1).csv")
+customer.data <- read_csv("data-raw/ultimatum_customer (accessed 2017-02-14) (1).csv")
+treatment.survey <- read_csv("data-raw/Post-experiment+questionnaire+-+Treatment_February+14%2C+2017_05.05.csv")
+
 # filtering data
 control.data <-
   control.data %>%
@@ -35,5 +40,10 @@ control.data <-
   ) %>%
   dplyr::filter(validcode != "")
 
+
+### saves data to package with git commit ####
+
+control.survey <-
+  control.survey[-c(1,2),]
 use_data(control.data, control.timespent, control.survey, overwrite = TRUE)
 
