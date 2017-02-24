@@ -1,0 +1,1163 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,Q39,Q39,Q28,Q42,Q43,Q44,Q1_1,Q1_2,Q1_3,Q30,Q13,Q24_1,Q24_2,Q24_3,Q25_1,Q23_1,Q23_2,Q26_1,Q27_1,Q6_1,Q7_1,Q8_1,Q8_2,Q16,Q17,Q32,Q33,Q34,Q35,Q36,Q37,Q38,Q31,Q31,mTurkCode,Q1_2 - Topics
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,This is the beginning of the survey.,This is the beginning of the survey. - Regions,"In real life, what percentage (0-100) amount do you consider to be a standard and fair bank fee for exchanging currency?",What percentage (0-100) amount do you consider to be a standard and fair brokerage commission fee for financial management services?,What percentage (0-100) amount do you consider to be a standard and fair service charge in an online transaction?,What percentage (0-100) amount do you consider to be a standard and fair ATM fee for withdrawing cash?,Your basic demographic information - Age (years),Your basic demographic information - Occupation,Your basic demographic information - Nationality,What is your gender?,What was your role during the experiment?,Please estimate the following about Player 2 to the best of your ability: - Lowest offer ($0-1) Player 2 expected,Please estimate the following about Player 2 to the best of your ability: - Highest offer ($0-1) Player 2 expected,Please estimate the following about Player 2 to the best of your ability: - Lowest offer ($0-1) Player 2 would have accepted,What is the highest offer ($0-1) you were willing to make to Player 2? - Maximum Offer ($),Please answer the following questions about Player 1 to the best of your ability: - Lowest offer ($0-1) you expected from Player 1,Please answer the following questions about Player 1 to the best of your ability: - Highest offer ($0-1) you expected from Player 1,What is the lowest offer ($0-1) you were willing to accept from Player 1? - Minimum Offer ($),What do you think would have been a fair offer in this experiment ($0-1)? - Fair Offer ($),How did you feel about your payoff at the end of the experiment? - How you felt about your payoff,How would you rate the following statement? - I thought the outcome of this experiment was fair,Please rank your experience level with the following: - Converting types of currency,Please rank your experience level with the following: - International travel,"For this final task, imagine you have been anonymously and randomly paired with another person, called “Other.” Both you and the “Other” person will make choices by selecting payoff sets. 
+
+ 
+
+Your choices will produce points for both yourself and the “Other” person, and vice versa. Every point has value: the more points one receives, the better.
+ 
+
+    Here’s an example:
+
+
+
+
+  
+
+In this example, if you chose... 
+
+ 
+
+A: you receive 500 points; the other receives 100 points 
+
+B: you receive 500 points; the other receives 500 points  
+
+C: you receive 550 points; the other receives 300 points 
+
+ 
+
+So, you see that your choice influences both your points (on top) and the other's points (on bottom).
+
+ 
+
+To ensure that you are reading these instructions, you will see an image of a clock tower on the following page, indicating the end of the survey. When this occurs, please click on the clock or clock tower before continuing. You will then receive your payment information for this HIT.
+
+ 
+
+Before you begin making choices, please keep in mind that there are no right or wrong answers – simply choose the option that you prefer most. 
+
+ 
+
+For each of the nine choice situations, select an option depending on which column you prefer most:",Q17,Q32,Q33,Q34,Q35,Q36,Q37,Q38,You have reached the end of the survey. Your validation code number is on the following page.,You have reached the end of the survey. Your validation code number is on the following page. - Regions,mTurkCode,Q1_2 - Topics
+"{""ImportId"":""startDate""}","{""ImportId"":""endDate""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""QID47""}","{""ImportId"":""QID47_REGIONS""}","{""ImportId"":""QID36_TEXT""}","{""ImportId"":""QID50_TEXT""}","{""ImportId"":""QID51_TEXT""}","{""ImportId"":""QID52_TEXT""}","{""ImportId"":""QID1_1""}","{""ImportId"":""QID1_2""}","{""ImportId"":""QID1_3""}","{""ImportId"":""QID38""}","{""ImportId"":""QID48""}","{""ImportId"":""QID32_1""}","{""ImportId"":""QID32_2""}","{""ImportId"":""QID32_3""}","{""ImportId"":""QID33_1""}","{""ImportId"":""QID31_1""}","{""ImportId"":""QID31_2""}","{""ImportId"":""QID34_1""}","{""ImportId"":""QID35_1""}","{""ImportId"":""QID6_1""}","{""ImportId"":""QID7_1""}","{""ImportId"":""QID8_1""}","{""ImportId"":""QID8_2""}","{""ImportId"":""QID17""}","{""ImportId"":""QID18""}","{""ImportId"":""QID40""}","{""ImportId"":""QID41""}","{""ImportId"":""QID42""}","{""ImportId"":""QID43""}","{""ImportId"":""QID44""}","{""ImportId"":""QID45""}","{""ImportId"":""QID46""}","{""ImportId"":""QID39""}","{""ImportId"":""QID39_REGIONS""}","{""ImportId"":""mTurkCode""}","{""ImportId"":""QID1_2_3fbe8b9c8ecd4b8dbd26f23bTopic0""}"
+2017-02-06 18:13:48,2017-02-06 18:15:47,IP Address,173.217.96.226,100,119,True,2017-02-06 18:15:48,R_3fvrDfCFa6pNlAo,,,,,30.13459777832,-93.273002624512,anonymous,,Region #1,50,25,10,10,31,sales,American,Female,Player 1,0.41,0.71,0.5,0.5,,,,0.5,Very positively,Strongly agree,&nbsp;,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510",,"490
+490",,,8088591,
+2017-02-06 18:13:47,2017-02-06 18:16:28,IP Address,108.246.14.88,100,160,True,2017-02-06 18:16:29,R_2R8I5etuKX9wQz7,,,,,38.926498413086,-120.89799499512,anonymous,,,50,10,5,3,34,retail,American,Male,Player 2,,,,,0,0.5,0.1,0.5,Very positively,Strongly agree,No experience at all,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,493308,
+2017-02-06 18:15:26,2017-02-06 18:16:59,IP Address,104.174.223.0,100,92,True,2017-02-06 18:17:00,R_31ad5UnXif1mqTW,,,,,34.078994750977,-117.84939575195,anonymous,,,1,2,5,5,27,Accounting,USA,Male,Player 2,,,,,0.1,1,0.1,0.5,Neutral,Somewhat agree,No experience at all,No experience at all,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,,7570244,
+2017-02-06 18:15:28,2017-02-06 18:19:16,IP Address,67.188.183.78,100,227,True,2017-02-06 18:19:17,R_1dbqUcjsLwVRDDW,,,,,37.830902099609,-122.21960449219,anonymous,,,1,1,0,0,40,acupuncturist,american,Female,Player 1,0.31,0.61,0.39,0.5,,,,0.5,Somewhat positively,Strongly agree,Some experience,Extensive experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,6406235,
+2017-02-06 18:17:05,2017-02-06 18:19:41,IP Address,217.73.129.102,100,156,True,2017-02-06 18:19:42,R_3EyuGmwDzQKqMB7,,,,,41.323104858398,19.44140625,anonymous,,,3,7,3,5,,,,Male,Player 2,,,,,0.21,0.7,0.4,0.5,Somewhat positively,Strongly agree,Some experience,Extensive experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,1837355,
+2017-02-06 18:17:28,2017-02-06 18:19:44,IP Address,47.199.62.153,100,136,True,2017-02-06 18:19:45,R_1ovsWlVt7e5Lo2v,,,,,28.215805053711,-82.659599304199,anonymous,,,100,50,50,50,50,none,american,Female,Player 2,,,,,0.5,0.5,0.01,0.51,Somewhat positively,Somewhat agree,&nbsp;,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,1129796,
+2017-02-06 18:17:53,2017-02-06 18:20:46,IP Address,100.36.54.231,100,172,True,2017-02-06 18:20:47,R_3s498ss7rZxAcim,,,,,38.908493041992,-77.017700195312,anonymous,,,1,1,0,0,25,Consulting,American/USA,Female,Player 2,,,,,0,0.5,0.5,0.5,Somewhat positively,Strongly agree,&nbsp;,&nbsp;,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,Clock,4886380,
+2017-02-06 18:17:30,2017-02-06 18:20:56,IP Address,122.164.213.32,100,206,True,2017-02-06 18:20:58,R_2Tto2GtcK5PaKdg,,,,,13.083297729492,80.283294677734,anonymous,,,20,15,25,5,32,OPERATION THEATRE ASSIATANT,INDIAN,Male,Player 1,0.63,0.46,0.6,0.7,,,,0.55,Somewhat positively,Somewhat agree,&nbsp;,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","570
+300","510
+510","550
+300","540
+300",,Clock,9532322,
+2017-02-06 18:17:04,2017-02-06 18:21:49,IP Address,104.11.61.83,100,284,True,2017-02-06 18:21:50,R_2pQqNMNxxKSNiiy,,,,,37.918106079102,-122.07350158691,anonymous,,Region #1,2,5,1,2,50,Business Program Director,American,Male,Player 1,0.2,0.5,0.25,0.5,,,,0.5,Very positively,Strongly agree,Some experience,Some experience,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,Clock,909525,
+2017-02-06 18:20:52,2017-02-06 18:22:51,IP Address,24.74.136.196,100,118,True,2017-02-06 18:22:53,R_30l8N6MNg5KF1eW,,,,,35.403396606445,-80.861099243164,anonymous,,Region #1,1,6,1,1,42,Marketing,American,Female,Player 2,,,,,0.5,0.5,0.5,0.5,Very positively,Strongly agree,No experience at all,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,3161490,
+2017-02-06 18:20:53,2017-02-06 18:23:06,IP Address,173.89.228.6,100,132,True,2017-02-06 18:23:07,R_3ewtys0b6KcdFKc,,,,,41.229202270508,-80.42440032959,anonymous,,,10,5,0,5,23,Guard,American,Female,Player 1,0.07,0.07,0.1,0.5,,,,0.48,Very negatively,Neither agree nor disagree,No experience at all,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,6929210,
+2017-02-06 18:17:54,2017-02-06 18:23:13,IP Address,74.9.72.162,100,319,True,2017-02-06 18:23:15,R_324RLMVuerVeqph,,,,,40.854598999023,-74.061401367188,anonymous,,,5,2,1,1,28,Planner,American,Male,Player 1,0.25,0.6,0.4,0.55,,,,0.5,Somewhat positively,Somewhat agree,Some experience,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,821185,
+2017-02-06 18:26:31,2017-02-06 18:29:22,IP Address,108.200.41.181,100,170,True,2017-02-06 18:29:23,R_2rOOAJXB6e5BQaz,,,,,32.723495483398,-97.462501525879,anonymous,,,2,4,0,0,43,Teacher,USA,Male,Player 2,,,,,0,0.5,0.25,0.5,Neutral,Strongly agree,Some experience,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,4996935,
+2017-02-06 18:29:46,2017-02-06 18:31:21,IP Address,68.52.107.175,100,94,True,2017-02-06 18:31:23,R_qDu3xz3CzXLDSTf,,,,,36.347900390625,-86.60050201416,anonymous,,,20,30,5,3,25,video producer,USA,Female,Player 1,0,1,0.5,0.25,,,,0.51,Very positively,Strongly agree,No experience at all,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,837621,
+2017-02-06 18:26:33,2017-02-06 18:32:57,IP Address,103.77.1.167,100,383,True,2017-02-06 18:32:58,R_1rdnlab67ek8aKN,,,,,28.570007324219,77.320007324219,anonymous,,Region #1,3,6,2,0.15,45,telecommuter - work from home,Indian,Female,Player 1,0.1,0.3,0.21,0.5,,,,0.5,Very positively,Strongly agree,Some experience,No experience at all,"540
+280","500
+500","520
+520","560
+300","500
+500","570
+300","510
+510","500
+500","490
+490",,Clock,7181999,
+2017-02-06 18:31:52,2017-02-06 18:33:34,IP Address,24.74.136.196,100,102,True,2017-02-06 18:33:35,R_3NU3QnqmvczoyAW,,,,,35.403396606445,-80.861099243164,anonymous,,Region #1,2,3.5,1,2.5,52,product management,American,Female,Player 2,,,,,0.4,0.6,0.5,0.5,Very positively,Strongly agree,No experience at all,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,9849199,
+2017-02-06 18:32:06,2017-02-06 18:35:12,IP Address,117.203.75.66,100,186,True,2017-02-06 18:35:14,R_1Hdg0p12BXbvNRx,,,,,10.992492675781,76.961395263672,anonymous,,,50,10,20,10,38,supervisior,indian,Female,Player 2,,,,,0.51,0.5,0.04,0.6,Neutral,Neither agree nor disagree,&nbsp;,Some experience,"540
+280","500
+100","520
+120","500
+100","490
+90","500
+100","510
+510","500
+100","480
+100",,,2308332,
+2017-02-06 18:32:04,2017-02-06 18:36:34,IP Address,75.184.125.59,100,269,True,2017-02-06 18:36:35,R_1eY1YAqB2HkwOB0,,,,,44.52409362793,-87.905601501465,anonymous,,,2,2,1,0,35,Buyer,"Caucasian ",Male,Player 1,0.1,0.5,0.05,0.5,,,,0.25,Very positively,Somewhat agree,Some experience,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,1450195,
+2017-02-06 18:32:00,2017-02-06 18:36:39,IP Address,120.89.109.230,100,278,True,2017-02-06 18:36:40,R_Yccf0Mz8ww02U25,,,,,27.716705322266,85.316711425781,anonymous,,Other,55,12,2,0.05,31,teacher,nepal,Male,Player 2,,,,,0.58,0.54,0.52,0.38,Somewhat positively,Somewhat agree,&nbsp;,&nbsp;,,,,,,,,"500
+100",,,,4616840,
+2017-02-06 18:34:32,2017-02-06 18:37:12,IP Address,173.28.249.80,100,160,True,2017-02-06 18:37:14,R_31t1eNsPj9PwfXz,,,,,41.573806762695,-90.458198547363,anonymous,,,4,5,5,7,29,Network Administrator (IT),,Male,Player 2,,,,,0.3,0.45,0.2,0.3,Very negatively,Somewhat disagree,&nbsp;,&nbsp;,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","500
+500","540
+300",,,8542853,
+2017-02-06 18:34:56,2017-02-06 18:38:00,IP Address,199.244.48.209,100,183,True,2017-02-06 18:38:01,R_R8IoogePQO61bY5,,,,,44.469802856445,-123.34300231934,anonymous,,Other,1,1,2,0.25,25,Bank teller,U.S,Male,Player 1,0.68,0.83,0.85,0.75,,,,0.62,Somewhat positively,Strongly agree,&nbsp;,Some experience,"540
+280","560
+300","580
+320","560
+300",,"570
+300","560
+300","550
+300","540
+300",,,6257025,
+2017-02-06 18:34:33,2017-02-06 18:38:33,IP Address,59.99.97.60,100,240,True,2017-02-06 18:38:35,R_1jVOEOfDGz6cQYW,,,,,11.86669921875,75.365295410156,anonymous,,,2,1,0.5,0,39,engineer,indian,Female,Player 1,0.5,1,0.4,0.2,,,,0.25,Neutral,Strongly agree,&nbsp;,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,6105853,
+2017-02-06 18:34:57,2017-02-06 18:41:12,IP Address,69.46.92.68,100,374,True,2017-02-06 18:41:13,R_28zHuABmtSAARjs,,,,,37.33869934082,-121.89140319824,anonymous,,,0.5,2,2,1,29,Sales manager,USA,Male,Player 2,,,,,0.72,0.81,0.53,0.5,Somewhat positively,Somewhat agree,&nbsp;,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,1801642,
+2017-02-06 18:41:57,2017-02-06 18:47:29,IP Address,42.109.210.155,100,332,True,2017-02-06 18:47:32,R_2zusBLj6yH8xsox,,,,,12.983306884766,77.583312988281,anonymous,,,50,5,5,2,45,manager,IN,Male,Player 2,,,,,0.4,0.61,0.5,0.5,Somewhat positively,Somewhat agree,Some experience,Some experience,"540
+280","500
+500","520
+520","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,Clock,3399127,
+2017-02-06 18:45:44,2017-02-06 18:48:10,IP Address,108.219.9.131,100,145,True,2017-02-06 18:48:11,R_2dym1XTzhDmbLX2,,,,,35.16650390625,-120.43759918213,anonymous,,,0.5,0.5,0.075,0.05,22,student,USA,Female,Player 1,0.1,0.5,0.1,0.25,,,,0.5,Very positively,Somewhat agree,&nbsp;,Some experience,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,,6691311,
+2017-02-06 18:41:55,2017-02-06 18:48:35,IP Address,72.94.255.212,100,399,True,2017-02-06 18:48:37,R_1NmEK4ddgRaz5mw,,,,,39.90559387207,-75.487396240234,anonymous,,Region #1,0.5,1,1,1,45,unemployed,US American,Female,Player 1,0.2,0.09,0.1,0.72,,,,0.55,Very positively,Strongly agree,&nbsp;,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Other,1810938,
+2017-02-06 18:47:05,2017-02-06 18:49:18,IP Address,50.137.142.118,100,132,True,2017-02-06 18:49:19,R_UKk1qqHT9HhyYcp,,,,,45.481796264648,-122.60049438477,anonymous,,,0.1,10,0,0,31,self-employed,American,Female,Player 1,0.5,0.5,0.5,0.5,,,,0.5,Very positively,Strongly agree,No experience at all,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,8160182,
+2017-02-06 18:47:47,2017-02-06 18:49:49,IP Address,12.175.207.67,100,121,True,2017-02-06 18:49:50,R_3HBIMlhJmEvXHPJ,,,,,30.358596801758,-103.66210174561,anonymous,,,0,2,2,0,27,Attractions Host,American,Male,Player 1,0,0.02,0.01,0.5,,,,0.01,Very positively,Strongly agree,Some experience,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,1319737,
+2017-02-06 18:47:41,2017-02-06 18:49:54,IP Address,75.135.131.48,100,132,True,2017-02-06 18:49:55,R_2BkxljWUDmTaIYc,,,,,45.34489440918,-84.915000915527,anonymous,,,10,10,5,1,30,Nurse,White,Female,Player 2,,,,,0.26,0.5,0.41,0.51,Somewhat positively,Strongly agree,No experience at all,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,7020629,
+2017-02-06 18:47:05,2017-02-06 18:50:01,IP Address,107.132.216.234,100,175,True,2017-02-06 18:50:02,R_DV4KlA1x7IrS1zj,,,,,35.383193969727,-119.22720336914,anonymous,,,5,7,3,1,36,Consultant,White,Female,Player 2,,,,,0.5,1,0.4,0.5,Somewhat positively,Strongly agree,No experience at all,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,7009465,
+2017-02-06 18:47:42,2017-02-06 18:50:03,IP Address,97.120.145.73,100,141,True,2017-02-06 18:50:05,R_2wgxCgqGMShtkhz,,,,,45.440704345703,-122.61569976807,anonymous,,,1,2,0,0,,,,,Player 2,,,,,0.4,0.5,0.5,0.5,Somewhat positively,Strongly agree,&nbsp;,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,9138418,
+2017-02-06 18:45:42,2017-02-06 18:50:10,IP Address,108.183.59.140,100,268,True,2017-02-06 18:50:12,R_2dL5OtoHGMi4n4V,,,,,42.050903320312,-75.889099121094,anonymous,,,1,1,0.5,0.5,55,radiology technician,USA,Female,Player 2,,,,,0.4,0.5,0.4,0.5,Very positively,Strongly agree,Some experience,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,5208964,
+2017-02-06 18:47:38,2017-02-06 18:50:11,IP Address,50.89.180.123,100,152,True,2017-02-06 18:50:12,R_10A6Wb4uDDejOcF,,,,,28.389892578125,-81.436599731445,anonymous,,,65,40,15,2.5,38,sales tech,usa,Male,Player 1,0.4,0.45,0.3,0.45,,,,0.6,Somewhat positively,Somewhat agree,&nbsp;,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,4699851,
+2017-02-06 18:48:16,2017-02-06 18:50:12,IP Address,68.190.62.210,100,116,True,2017-02-06 18:50:14,R_cwpOByWaGnoDbtT,,,,,34.251907348633,-86.257102966309,anonymous,,,0,0,0,0,25,cashier,white,Male,Player 1,0.11,0.16,0.18,1,,,,1,Very negatively,Strongly disagree,&nbsp;,Some experience,"540
+280","500
+500","520
+120","560
+300","500
+500","500
+100","560
+300","500
+100","490
+490",,,435681,
+2017-02-06 18:47:41,2017-02-06 18:50:22,IP Address,173.67.251.220,100,161,True,2017-02-06 18:50:24,R_1Hc390ird79FfRG,,,,,37.467697143555,-77.589996337891,anonymous,,,2,4,1,0.025,60,general manager-retail,American,Male,Player 1,0.3,0.6,0.4,0.5,,,,0.5,Somewhat positively,Somewhat agree,Some experience,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,9908336,
+2017-02-06 18:47:47,2017-02-06 18:50:23,IP Address,184.59.120.129,100,156,True,2017-02-06 18:50:25,R_30jKfOxKcg9uTrb,,,,,39.832992553711,-84.217697143555,anonymous,,,3,3,1,1,32,Contracting,American,Male,Player 2,,,,,0.5,0.5,0.5,0.5,Somewhat positively,Somewhat agree,&nbsp;,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,652859,
+2017-02-06 18:47:41,2017-02-06 18:50:56,IP Address,71.187.14.109,100,194,True,2017-02-06 18:50:57,R_2ykFG92IByl3tup,,,,,40.912094116211,-74.174797058105,anonymous,,,5,5,2,5,27,Office Assistant,American,Male,Player 1,0.2,0.6,0.3,0.5,,,,0.5,Very positively,Strongly agree,Extensive experience,Extensive experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,9122593,
+2017-02-06 18:47:37,2017-02-06 18:52:00,IP Address,97.84.230.230,100,262,True,2017-02-06 18:52:01,R_bklbPE9Uw45p6lr,,,,,42.852600097656,-86.12629699707,anonymous,,Other,2,3,1,1,27,Consultant,American,Male,Player 2,,,,,0.03,0.3,0.1,0.5,Somewhat positively,Somewhat agree,No experience at all,&nbsp;,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,Clock,7457362,
+2017-02-06 18:48:16,2017-02-06 18:52:20,IP Address,24.20.124.0,100,244,True,2017-02-06 18:52:21,R_3PYv3VYPZu7Qzt2,,,,,45.498001098633,-122.77839660645,anonymous,,Other,1,5,0,0,28,Unemployed,USA,Male,Player 2,,,,,0.25,0.5,0.1,0.4,Very positively,Strongly agree,No experience at all,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,3185425,
+2017-02-06 18:47:41,2017-02-06 18:53:35,IP Address,186.88.69.240,100,354,True,2017-02-06 18:53:37,R_2rl1z8o9c7iWhJV,,,,,10.631698608398,-71.640602111816,anonymous,,Other,5,5,2,3,30,engineer,venezuelan,Male,Player 1,0.2,0.5,0.2,0.5,,,,0.5,Somewhat positively,Somewhat agree,&nbsp;,&nbsp;,"480
+480","560
+300","580
+320","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,535062,
+2017-02-06 18:50:47,2017-02-06 18:54:19,IP Address,108.18.68.27,100,212,True,2017-02-06 18:54:21,R_1LBQwolsdjG8rmO,,,,,38.936996459961,-76.99340057373,anonymous,,,1,5,0,0,34,Systems Analyst,American,Female,Player 1,0.3,0.4,0.1,0.5,,,,0.5,Very positively,Strongly agree,Extensive experience,Extensive experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,1691495,
+2017-02-06 18:45:49,2017-02-06 18:54:53,IP Address,122.174.109.210,100,543,True,2017-02-06 18:54:54,R_2U5fLGcisbe5FOi,,,,,13.083297729492,80.283294677734,anonymous,,Region #1,2,5,2,2,49,Self-employed,Indian,Male,Player 2,,,,,0.05,0.75,0.2,0.5,Neutral,Somewhat disagree,No experience at all,No experience at all,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,Clock,4739867,
+2017-02-06 18:50:47,2017-02-06 18:56:35,IP Address,199.116.153.82,100,347,True,2017-02-06 18:56:37,R_0fEEG9lC8fsoS9H,,,,,37.38720703125,-82.94059753418,anonymous,,Region #1,2,5,5,1,63,retired,american,Male,Player 2,,,,,0.28,0.39,0.5,0.5,Very positively,Strongly agree,&nbsp;,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,1601757,
+2017-02-06 18:48:21,2017-02-06 18:57:53,IP Address,74.102.15.38,100,572,True,2017-02-06 18:57:54,R_23Wc0ZbgFpNf80N,,,,,40.936401367188,-74.11840057373,anonymous,,,2,3,0,1,27,,,Male,Player 1,0.2,0.5,0.44,0.51,,,,0.51,Somewhat positively,Strongly agree,No experience at all,No experience at all,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,Clock,767002,
+2017-02-06 18:54:07,2017-02-06 18:59:23,IP Address,76.178.236.32,100,315,True,2017-02-06 18:59:24,R_1NevWJRgjh5PyUB,,,,,43.582992553711,-71.03929901123,anonymous,,,3,5,1,2,27,Freelance Writer,American,Female,Player 2,,,,,0.2,0.6,0.25,0.5,Somewhat negatively,Strongly agree,&nbsp;,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,9901721,
+2017-02-06 19:11:27,2017-02-06 19:13:08,IP Address,108.46.157.192,100,100,True,2017-02-06 19:13:09,R_2sTkvHlgyV3VVoG,,,,,40.682601928711,-73.467002868652,anonymous,,,3,10,0,3,22,live chat rep,white,Male,Player 2,,,,,0.1,0.5,0.5,0.5,Very positively,Strongly agree,Some experience,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,3097249,
+2017-02-06 19:14:33,2017-02-06 19:16:57,IP Address,184.20.12.198,100,143,True,2017-02-06 19:16:58,R_ywKlY7CtVhQkjQJ,,,,,39.768402099609,-86.157997131348,anonymous,,,1,5,1,1,31,manager,usa,Female,Player 1,0,1,0.4,0.5,,,,0.5,Somewhat negatively,Neither agree nor disagree,&nbsp;,&nbsp;,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,,3856546,
+2017-02-06 19:14:27,2017-02-06 19:18:49,IP Address,174.27.131.98,100,261,True,2017-02-06 19:18:50,R_29687QmHL3qVcKe,,,,,40.73860168457,-111.8591003418,anonymous,,,2,0.1,0.5,1,47,IT coder,USA,Male,Player 2,,,,,0.3,0.5,0.4,0.5,Very positively,Strongly agree,Extensive experience,Extensive experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,9629560,
+2017-02-06 19:16:52,2017-02-06 19:19:55,IP Address,73.23.153.157,100,183,True,2017-02-06 19:19:56,R_2tDN2dgpL0VAVXr,,,,,26.621704101562,-81.840599060059,anonymous,,Region #1,15,6,6,3,51,administrative assistant,american,Female,Player 1,0.23,0.68,0.53,0.51,,,,0.51,Somewhat positively,Somewhat agree,Some experience,Some experience,"540
+280","560
+300","520
+120","560
+300","560
+300","500
+100","560
+300","550
+300","540
+300",,,9387300,
+2017-02-06 19:24:25,2017-02-06 19:27:02,IP Address,192.136.218.189,100,156,True,2017-02-06 19:27:03,R_1kGEJ7hCBXeLk71,,,,,32.658493041992,-97.089797973633,anonymous,,,3,3,2,1,22,Marketing Coordinator,American,Male,Player 2,,,,,0.51,0.72,0.08,0.51,Somewhat negatively,Neither agree nor disagree,&nbsp;,No experience at all,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,Clock,459814,
+2017-02-06 19:24:25,2017-02-06 19:30:27,IP Address,108.131.97.97,100,362,True,2017-02-06 19:30:29,R_2zpYHQKbaXxEwyD,,,,,34.897903442383,-88.579399108887,anonymous,,,0,1,0,0,75,Homemaker,United States,Female,Player 1,0,0.5,0.2,0.6,,,,0.5,Very positively,Neither agree nor disagree,Some experience,Some experience,,"560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,Clock,4130349,
+2017-02-06 19:40:57,2017-02-06 19:43:25,IP Address,172.56.26.96,100,148,True,2017-02-06 19:43:27,R_3KvmhyotSenILWq,,,,,28.538299560547,-81.379203796387,anonymous,,,0,0,0,0,29,Teacher,European,Male,Player 2,,,,,0.16,0.55,0.49,0.54,Neutral,Neither agree nor disagree,No experience at all,No experience at all,"540
+280","500
+100","520
+520","490
+490","490
+90","500
+500","560
+300","500
+500","480
+100",,,3262701,
+2017-02-06 20:02:10,2017-02-06 20:07:12,IP Address,163.47.15.214,100,301,True,2017-02-06 20:07:14,R_1GQCxuyDEdPDJGM,,,,,13.083297729492,80.283294677734,anonymous,,Region #1,30,20,25,2,26,IT Professional,Indian,Male,Player 2,,,,,0.4,0.5,0.4,0.5,Very positively,Strongly agree,Some experience,&nbsp;,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,Clock,6876813,
+2017-02-06 20:02:10,2017-02-06 20:09:32,IP Address,122.163.37.112,100,441,True,2017-02-06 20:09:33,R_1Pda5zxh0Bj3g42,,,,,22.569702148438,88.369689941406,anonymous,,,5,3,1,0,31,"Freelancers ",India,Male,Player 1,0.25,0.51,0.36,0.5,,,,0.51,Neutral,Strongly agree,&nbsp;,Some experience,,,,,,,,,,,Clock,2845263,
+2017-02-06 20:51:06,2017-02-06 20:55:07,IP Address,189.216.207.46,100,241,True,2017-02-06 20:55:08,R_1gMhIaEh0WQtMrL,,,,,19.434204101562,-99.138603210449,anonymous,,,1,1,1,1,28,student,USA,Male,Player 2,,,,,0,0,0.5,0,Neutral,Somewhat agree,Extensive experience,Extensive experience,,,"580
+320",,,,,,,,Clock,3667242,
+2017-02-06 20:51:07,2017-02-06 20:59:09,IP Address,106.78.51.5,100,481,True,2017-02-06 20:59:11,R_2tyK5tJEODq9BMB,,,,,22.569702148438,88.369689941406,anonymous,,,10,5,3,10,26,Student,Indian,Male,Player 2,,,,,0.4,0.5,0.3,0.5,Somewhat positively,Strongly agree,Some experience,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,3903176,
+2017-02-06 22:45:26,2017-02-06 22:52:20,IP Address,103.217.245.99,100,413,True,2017-02-06 22:52:22,R_6nhqgvEP3u1JBLP,,,,,29.683303833008,76.983306884766,anonymous,,,2,4,2,1,30,Associate Developer,Indian,Male,Player 2,,,,,0.25,0.75,0.25,0.5,Very positively,Strongly agree,&nbsp;,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,9306070,
+2017-02-06 22:45:28,2017-02-06 22:55:15,IP Address,165.225.104.54,100,587,True,2017-02-06 22:55:17,R_1DLP4qtREWE4sIE,,,,,13.083297729492,80.283294677734,anonymous,,Region #1,1,0.25,0.1,0.25,35,Software Architect,Indian,Male,Player 1,0.1,0.5,0.2,0.5,,,,0.3,Very positively,Strongly agree,&nbsp;,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,136985,
+2017-02-07 17:25:49,2017-02-07 17:27:37,IP Address,47.211.101.42,100,107,True,2017-02-07 17:27:38,R_3MGvPH09DcQ54jb,,,,,31.322402954102,-92.434303283691,anonymous,,,5,20,10,5,26,Sales Rep,United States,Male,Player 2,,,,,0,1,0.5,1,Very positively,Strongly agree,No experience at all,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,8602670,
+2017-02-07 17:25:38,2017-02-07 17:27:47,IP Address,198.8.80.59,100,128,True,2017-02-07 17:27:48,R_1n17fb8RPmqNOKX,,,,,34.049392700195,-118.26409912109,anonymous,,,1,3,2,2,32,tso,usa,Female,Player 1,0.29,0.62,0.4,0.56,,,,0.51,Very positively,Strongly agree,&nbsp;,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,6103446,
+2017-02-07 17:26:32,2017-02-07 17:27:52,IP Address,24.165.155.59,100,80,True,2017-02-07 17:27:54,R_2OH1NgH7N7CcNxc,,,,,42.095199584961,-80.092796325684,anonymous,,,50,20,5,2,34,Rn,"American ",Female,Player 1,0.5,0.5,0.52,0.6,,,,0.51,Neutral,Somewhat agree,&nbsp;,Some experience,"540
+280","500
+100","520
+120","500
+100","500
+500","500
+100","560
+300","500
+500","490
+490",,,5002373,
+2017-02-07 17:26:32,2017-02-07 17:28:56,IP Address,172.7.244.112,100,144,True,2017-02-07 17:28:58,R_2WDbEDUuoatA5Mv,,,,,32.863800048828,-97.17569732666,anonymous,,,1,1,1,1,28,landscaper,american,Male,Player 1,0.4,0.6,0.5,0.5,,,,0.5,Very positively,Strongly agree,No experience at all,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,2510686,
+2017-02-07 17:26:57,2017-02-07 17:29:17,IP Address,50.240.2.125,100,139,True,2017-02-07 17:29:18,R_3lGDrZEShVQx5sM,,,,,30.657501220703,-88.158599853516,anonymous,,,3,1,1,1,29,insurance,USA,Male,Player 1,,,,0,,,,0.49,Very negatively,Strongly disagree,&nbsp;,&nbsp;,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,,7320857,
+2017-02-07 17:26:57,2017-02-07 17:29:36,IP Address,129.97.58.107,100,159,True,2017-02-07 17:29:38,R_2ZEWz0eeVHEcEMZ,,,,,43.471496582031,-80.545402526855,anonymous,,,2,3,1,2,,,,Male,Player 2,,,,,0.1,0.8,0.2,0.2,Very negatively,Somewhat disagree,Some experience,Some experience,"480
+80","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,Clock,7670159,
+2017-02-07 17:25:38,2017-02-07 17:29:46,IP Address,122.164.234.21,100,247,True,2017-02-07 17:29:49,R_8C7Rj6gx6JtlHl7,,,,,13.083297729492,80.283294677734,anonymous,,,25,10,25,5,32,operation theatre assistant,indian,Male,Player 1,,,,0.62,,,,0.56,Neutral,Somewhat disagree,Some experience,&nbsp;,"540
+280","560
+300","520
+520","560
+300","500
+500","570
+300","560
+300","500
+100","540
+300",,Clock,6699791,
+2017-02-07 17:28:43,2017-02-07 17:30:26,IP Address,174.52.112.95,100,102,True,2017-02-07 17:30:27,R_2QPXAYn72e3j6AM,,,,,40.799499511719,-111.82849884033,anonymous,,,3,5,2,2,34,,,Female,Player 2,,,,,0.01,0.5,0.4,0.5,Very positively,Strongly agree,Some experience,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,8104848,
+2017-02-07 17:28:48,2017-02-07 17:31:18,IP Address,207.237.32.53,100,150,True,2017-02-07 17:31:20,R_3PAjL9HYltu3bEo,,,,,40.716506958008,-73.881202697754,anonymous,,,1,2,1,1,33,medicine,american,Male,Player 2,,,,,0.41,0.52,0.25,0.51,Somewhat negatively,Somewhat disagree,&nbsp;,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,106139,
+2017-02-07 17:28:44,2017-02-07 17:31:22,IP Address,75.133.230.112,100,157,True,2017-02-07 17:31:23,R_2dSe3YofUzb2HxQ,,,,,43.044296264648,-83.519203186035,anonymous,,,5,5,0,0,43,Homemaker,Us,Female,Player 1,0.52,1,,1,,,,0.72,Somewhat positively,Somewhat agree,No experience at all,No experience at all,,"500
+500",,,,,,,,,,759668,
+2017-02-07 17:29:22,2017-02-07 17:31:50,IP Address,96.249.230.54,100,147,True,2017-02-07 17:31:51,R_1owhleCmyfNEh4Y,,,,,37.062698364258,-76.405197143555,anonymous,,,1.5,3.5,1.5,2,19,Self Employed,American,Male,Player 2,,,,,0.5,0.5,0.5,0.5,Neutral,Somewhat agree,No experience at all,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,1493880,
+2017-02-07 17:28:50,2017-02-07 17:31:59,IP Address,192.171.48.250,100,189,True,2017-02-07 17:32:01,R_1JPj4UArdS9SquG,,,,,43.686096191406,-79.402496337891,anonymous,,,3,7,3,0.004,26,Cruise ship IT,Canadian,Male,Player 1,0.2,0.91,0.1,0.5,,,,0.5,Very positively,Somewhat agree,&nbsp;,Extensive experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,3240371,
+2017-02-07 17:29:05,2017-02-07 17:32:00,IP Address,104.138.212.1,100,175,True,2017-02-07 17:32:02,R_1LdR1qgQwvcfw3J,,,,,36.097793579102,-80.322303771973,anonymous,,,2,5,2,1,32,it tech,american,Female,Player 2,,,,,0.25,0.55,0.5,0.5,Very positively,Strongly agree,&nbsp;,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,243820,
+2017-02-07 17:29:20,2017-02-07 17:32:09,IP Address,71.37.40.27,100,169,True,2017-02-07 17:32:10,R_3D5UrgnbBsfLrbq,,,,,47.542007446289,-122.31230163574,anonymous,,Region #1,2,5,1,1,27,Programmer,North American,Male,Player 1,0,1,0.5,0.5,,,,0.5,Somewhat positively,Strongly agree,No experience at all,&nbsp;,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,Clock,7683614,
+2017-02-07 17:29:06,2017-02-07 17:32:21,IP Address,216.15.59.152,100,194,True,2017-02-07 17:32:22,R_YWiVcDJEyZTl3LX,,,,,38.914398193359,-77.076301574707,anonymous,,,5,5,5,1,24,Cashier,American,Male,Player 1,0.5,1,0.5,0.5,,,,1,Very positively,Strongly agree,No experience at all,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,3696858,
+2017-02-07 17:30:41,2017-02-07 17:32:21,IP Address,98.212.171.200,100,99,True,2017-02-07 17:32:22,R_1f96pjPjIoPsa8O,,,,,41.881301879883,-87.844100952148,anonymous,,,2,2,2,1,31,server,American,Male,Player 2,,,,,0,0.5,0.5,0.5,Very negatively,Strongly disagree,Some experience,&nbsp;,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,,4223202,
+2017-02-07 17:29:24,2017-02-07 17:33:09,IP Address,66.55.134.195,100,225,True,2017-02-07 17:33:10,R_1FKfONs74soLOfj,,,,,40.465194702148,-74.230697631836,anonymous,,,1,2,2,2,28,security,usa,Male,Player 1,0.3,0.62,0.35,0.5,,,,0.43,Somewhat positively,Strongly agree,&nbsp;,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,8856805,
+2017-02-07 17:29:20,2017-02-07 17:33:23,IP Address,70.49.143.249,100,242,True,2017-02-07 17:33:24,R_3IZ5lO9hlQxjBQl,,,,,42.248092651367,-82.99520111084,anonymous,,Other,2,3,1,2,,,,Male,Player 2,,,,,0.1,0.45,0.3,0.45,Somewhat positively,Strongly agree,Some experience,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,3769630,
+2017-02-07 17:30:33,2017-02-07 17:33:24,IP Address,100.12.178.62,100,170,True,2017-02-07 17:33:25,R_3EcfRnx7lYPZB6e,,,,,40.735397338867,-73.878303527832,anonymous,,Region #1,0.2,3,0,0,26,resident,American,Female,Player 1,0.05,0.5,0.2,0.5,,,,0.5,Somewhat negatively,Neither agree nor disagree,Some experience,&nbsp;,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,,8564286,
+2017-02-07 17:31:32,2017-02-07 17:33:27,IP Address,71.187.14.109,100,115,True,2017-02-07 17:33:29,R_bEnc0BDEH7PgRkl,,,,,40.912094116211,-74.174797058105,anonymous,,,5,10,5,5,27,Office Assistant,American,Male,Player 2,,,,,0.2,0.5,0.2,0.4,Very negatively,Neither agree nor disagree,Extensive experience,Extensive experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,457512,
+2017-02-07 17:29:32,2017-02-07 17:33:36,IP Address,174.223.3.236,100,244,True,2017-02-07 17:33:37,R_1K9JEZ6KkLXx5Nl,,,,,32.361694335938,-86.133598327637,anonymous,,,1,5,0,1,49,educator,US citizen,Female,Player 2,,,,,0.5,0.5,0.4,0.5,Somewhat negatively,Somewhat disagree,No experience at all,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,3482098,
+2017-02-07 17:31:39,2017-02-07 17:33:42,IP Address,173.67.251.220,100,122,True,2017-02-07 17:33:43,R_2z8avhjLbBX9ipv,,,,,37.467697143555,-77.589996337891,anonymous,,,0.5,0.02,0.1,0.001,60,general manager-retail,American,Male,Player 2,,,,,0.2,0.5,0.5,0.5,Neutral,Somewhat agree,Some experience,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,2354301,
+2017-02-07 17:32:20,2017-02-07 17:34:41,IP Address,190.45.200.5,100,140,True,2017-02-07 17:34:42,R_1r8K5uX8BtTSKu0,,,,,-33.462493896484,-70.668197631836,anonymous,,,2,5,1,2,29,Teacher,Chile,Female,Player 2,,,,,0.5,0.9,0.05,0.5,Very negatively,Strongly disagree,Extensive experience,Extensive experience,"540
+280","560
+300","580
+320","560
+300","560
+300","500
+100",,"550
+300","540
+300",,Clock,9094907,
+2017-02-07 17:30:33,2017-02-07 17:34:50,IP Address,207.118.76.131,100,256,True,2017-02-07 17:34:51,R_2S8P1P4jaMawgC6,,,,,47.364807128906,-122.60479736328,anonymous,,Region #1,0.25,1,0,0.5,,,,Male,Player 2,,,,,0.2,0.5,0.2,0.5,Somewhat positively,Somewhat agree,&nbsp;,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,4825667,
+2017-02-07 17:29:50,2017-02-07 17:34:50,IP Address,64.85.242.28,100,299,True,2017-02-07 17:34:52,R_2YWGqjsAx0kytOX,,,,,37.991394042969,-122.00810241699,anonymous,,,3,5,0,0,53,Sales,American,Male,Player 1,0.1,0.5,0.2,0.5,,,,0.3,Somewhat positively,Strongly agree,No experience at all,Some experience,"540
+280","500
+100","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","480
+100",,Clock,4881637,
+2017-02-07 17:31:51,2017-02-07 17:35:05,IP Address,72.214.242.26,100,193,True,2017-02-07 17:35:06,R_3fDiHdSGMJHUCBr,,,,,34.502105712891,-120.12870025635,anonymous,,Region #1,3,5,1,0,37,service,American,Male,Player 2,,,,,,,0.4,0.5,Somewhat positively,Strongly disagree,&nbsp;,&nbsp;,,,,,,,,"500
+500",,,Clock,4493010,
+2017-02-07 17:31:32,2017-02-07 17:35:15,IP Address,99.34.127.119,100,222,True,2017-02-07 17:35:16,R_3Do76rYtrrEHI92,,,,,39.954803466797,-82.769302368164,anonymous,,,2,30,0,1,23,banking,african american,Female,Player 1,0.5,0.5,0.5,0.5,,,,0.5,Very negatively,Strongly disagree,Extensive experience,Extensive experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,588332,
+2017-02-07 17:31:39,2017-02-07 17:35:30,IP Address,73.185.48.141,100,230,True,2017-02-07 17:35:31,R_307UMCIJUWb1T2s,,,,,37.961700439453,-121.26069641113,anonymous,,Other,0.05,10,0.5,0.5,27,"LAB ASSISTANT ",ASIAN-AMERICAN,Male,Player 2,,,,,0,0.5,0.5,0.5,Somewhat negatively,Somewhat disagree,&nbsp;,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,2793318,
+2017-02-07 17:32:21,2017-02-07 17:36:23,IP Address,75.200.196.61,100,242,True,2017-02-07 17:36:24,R_2THssh0LM9pSOzs,,,,,37.751007080078,-97.821998596191,anonymous,,,5,5,0,1,26,IT Service Agent,US,Male,Player 2,,,,,0,0.5,0.01,0.5,Very positively,Strongly agree,Some experience,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,1185048,
+2017-02-07 17:31:43,2017-02-07 17:36:45,IP Address,116.203.159.127,100,302,True,2017-02-07 17:36:47,R_2zuvHhheh2tSZaK,,,,,22.569702148438,88.369689941406,anonymous,,,1,1,0.05,0,45,Self-Employed,Indian,Male,Player 2,,,,,0.01,1,0.4,0.5,Somewhat positively,Somewhat agree,&nbsp;,&nbsp;,,,"520
+520",,,,,,,,Clock,9554622,
+2017-02-07 17:33:21,2017-02-07 17:36:57,IP Address,162.230.43.188,100,216,True,2017-02-07 17:36:59,R_2OVbvM4xqP0jAY2,,,,,42.770492553711,-83.746696472168,anonymous,,,5,5,2,4,35,Auditor,United States,Male,Player 2,,,,,0.2,0.5,0.2,0.5,Neutral,Neither agree nor disagree,Some experience,&nbsp;,"540
+280","500
+500","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,Clock,4171413,
+2017-02-07 17:32:20,2017-02-07 17:38:19,IP Address,174.60.121.23,100,359,True,2017-02-07 17:38:20,R_3iqUzFKZcq6IQV2,,,,,39.932006835938,-77.706901550293,anonymous,,Region #1,0.02,5,0,0,,,,Female,Player 1,0.1,0.5,0.4,0.5,,,,0.5,Very positively,Strongly agree,&nbsp;,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,959814,
+2017-02-07 17:32:39,2017-02-07 17:38:26,IP Address,47.204.8.66,100,347,True,2017-02-07 17:38:27,R_2f1Lrn7dgYuMHCZ,,,,,27.944396972656,-82.418998718262,anonymous,,Region #1,5,7,2,5,38,Self employed freelance worker,American (White),Female,Player 2,,,,,0.1,0.4,0.3,0.5,Somewhat positively,Somewhat agree,Some experience,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,811529,
+2017-02-07 17:31:40,2017-02-07 17:38:30,IP Address,172.90.194.47,100,410,True,2017-02-07 17:38:32,R_3PaRXjVuGHjiL5d,,,,,33.912902832031,-118.34390258789,anonymous,,,0,20,0,0,28,NA,American,Female,Player 1,0.5,1,0.5,0.5,,,,0.5,Neutral,Neither agree nor disagree,No experience at all,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,9852265,
+2017-02-07 17:33:22,2017-02-07 17:38:38,IP Address,49.206.218.34,100,315,True,2017-02-07 17:38:39,R_3RpVt0Sc931CumP,,,,,17.375305175781,78.474395751953,anonymous,,,0.01,1,0.1,0,26,it employee,indian,Male,Player 1,0.1,0.81,0.3,0.45,,,,0.45,Very positively,Somewhat agree,&nbsp;,Some experience,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,Clock,9255415,
+2017-02-07 17:36:42,2017-02-07 17:38:46,IP Address,137.59.66.150,100,124,True,2017-02-07 17:38:48,R_22DEGnXsqhfIWJh,,,,,18.533294677734,73.86669921875,anonymous,,Other,1,2,1,2,29,job,indian,Female,Player 1,0.53,0.36,0.6,0.48,,,,0.41,Neutral,Somewhat agree,Some experience,&nbsp;,"540
+280","560
+300","520
+120","490
+490","500
+500","570
+300","560
+300","500
+100","480
+100",,,4668630,
+2017-02-07 17:36:57,2017-02-07 17:38:52,IP Address,173.28.249.80,100,115,True,2017-02-07 17:38:54,R_2Bs6PjQ6K8E9z8E,,,,,41.573806762695,-90.458198547363,anonymous,,,4,2,7,7,,,,Male,Player 1,,,,0.3,,,,0.2,Somewhat positively,Strongly agree,Some experience,&nbsp;,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,,6343840,
+2017-02-07 17:36:56,2017-02-07 17:38:57,IP Address,192.231.40.124,100,121,True,2017-02-07 17:38:58,R_6fF0eZaR0zD2GWt,,,,,33.197601318359,-96.615303039551,anonymous,,,1,1,1,0,22,Testing Center Clerk,USA,Male,Player 1,0.15,1,0.51,0.51,,,,0.5,Somewhat positively,Somewhat agree,No experience at all,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,3355931,
+2017-02-07 17:32:39,2017-02-07 17:39:00,IP Address,100.0.38.99,100,380,True,2017-02-07 17:39:01,R_3iQfoBRqefwJyni,,,,,42.15559387207,-71.426803588867,anonymous,,Region #1,5,5,3,3,52,self employed clerical,American,Female,Player 1,0.4,0.61,0.35,0.55,,,,0.5,Somewhat positively,Somewhat agree,&nbsp;,&nbsp;,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,Clock,380699,
+2017-02-07 17:37:04,2017-02-07 17:40:25,IP Address,204.195.5.31,100,200,True,2017-02-07 17:40:27,R_3MhfO40Nxv0sHh5,,,,,47.99609375,-123.25189971924,anonymous,,Region #1,1,1,0,0,42,it manager,usa,Male,Player 1,0.05,0.5,0.24,0.46,,,,0.41,Neutral,Strongly agree,&nbsp;,&nbsp;,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","500
+500","540
+300",,,346325,
+2017-02-07 17:36:41,2017-02-07 17:40:47,IP Address,108.184.211.110,100,246,True,2017-02-07 17:40:48,R_27gnSFOk35J57zT,,,,,33.747406005859,-117.99389648438,anonymous,,,10,10,15,5,41,engineer,asian,Male,Player 1,0.3,0.62,,0.71,,,,0.51,Somewhat positively,Somewhat agree,Some experience,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,79351,
+2017-02-07 17:37:04,2017-02-07 17:42:14,IP Address,75.131.38.156,100,309,True,2017-02-07 17:42:16,R_2qwO6IHlpqLtHM4,,,,,35.828796386719,-84.31770324707,anonymous,,,0.2,3,2,0.5,68,artist,USA,Female,Player 2,,,,,0.2,0.5,0.1,0.5,Somewhat positively,Somewhat disagree,No experience at all,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,1589049,
+2017-02-07 17:42:59,2017-02-07 17:44:06,IP Address,47.152.251.26,100,66,True,2017-02-07 17:44:07,R_2aELpAPn5bLJxYC,,,,,34.104400634766,-117.04859924316,anonymous,,Other,50,10,50,20,25,clerk,usa,Female,Player 2,,,,,0.39,0.28,0.52,0.27,Somewhat positively,Somewhat disagree,&nbsp;,Some experience,"540
+280","560
+300","520
+120","490
+490","490
+90","500
+100","560
+300","550
+300","490
+490",,Clock,5151956,
+2017-02-07 17:43:03,2017-02-07 17:47:06,IP Address,99.198.26.125,100,242,True,2017-02-07 17:47:07,R_21n3d0WwqDHQKcc,,,,,32.595596313477,-96.558403015137,anonymous,,,1,0.5,1,0.5,42,Clinic Coordinator,USA,Female,Player 2,,,,,0.3,0.5,0.3,0.5,Somewhat negatively,Strongly disagree,&nbsp;,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,3600974,
+2017-02-07 17:47:02,2017-02-07 17:51:00,IP Address,50.157.178.232,100,238,True,2017-02-07 17:51:02,R_2ZUDchx06qg9xDb,,,,,42.652297973633,-71.350601196289,anonymous,,,50,50,50,50,50,driver,AMERICAN,Male,Player 1,0.5,0.52,0.53,1,,,,0.83,Neutral,Neither agree nor disagree,Some experience,Some experience,,,,,"500
+500","500
+500","510
+510","500
+500","490
+490",,Other,3264233,
+2017-02-07 17:47:03,2017-02-07 17:52:03,IP Address,59.93.242.29,100,299,True,2017-02-07 17:52:04,R_3nPHUYAOuAZgtnD,,,,,16.516693115234,80.61669921875,anonymous,,Other,1,2,2,0,30,Manager,Indian,Male,Player 2,,,,,0.19,0.62,0.11,0.49,Very positively,Strongly agree,Some experience,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,5092822,
+2017-02-07 17:56:32,2017-02-07 17:59:10,IP Address,192.209.17.137,100,158,True,2017-02-07 17:59:12,R_3neojlgRKepLB5x,,,,,35.319000244141,-86.607200622559,anonymous,,,10,15,3,3,38,,,Female,Player 1,0,0.5,0.3,0.5,,,,0.5,Somewhat positively,Strongly agree,No experience at all,No experience at all,"480
+480","500
+500","520
+520","560
+300","500
+500","570
+300","560
+300","500
+500","490
+490",,,5968039,
+2017-02-07 18:01:50,2017-02-07 18:08:06,IP Address,47.209.36.224,100,376,True,2017-02-07 18:08:08,R_10uYvxxGB8wyCbb,,,,,37.505996704102,-118.31140136719,anonymous,,,20,10,10,5,31,driver,american,Female,Player 2,,,,,0.5,0.5,0.1,0.5,Somewhat positively,Somewhat agree,No experience at all,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,4310253,
+2017-02-07 18:09:50,2017-02-07 18:12:07,IP Address,162.198.205.227,100,136,True,2017-02-07 18:12:08,R_3I5j6bFf2myHEhy,,,,,35.646102905273,-78.5791015625,anonymous,,,1,1,0,0,,,,Female,Player 2,,,,,0.5,0.5,0.01,0.5,Somewhat negatively,Strongly disagree,Some experience,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,3548814,
+2017-02-07 18:09:52,2017-02-07 18:14:56,IP Address,70.196.138.151,100,303,True,2017-02-07 18:14:57,R_2ceCaQ0Uw19lZaH,,,,,30.450698852539,-91.154602050781,anonymous,,Region #1,1,1,1,1,46,Teacher,U. S.,Male,Player 1,0.05,0.5,0.01,0.92,,,,0.5,Somewhat positively,Somewhat agree,No experience at all,No experience at all,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,Clock,4943043,
+2017-02-07 18:12:54,2017-02-07 18:16:38,IP Address,108.75.118.195,100,224,True,2017-02-07 18:16:39,R_21jnGXDyJJ0ssoy,,,,,33.909606933594,-117.6123046875,anonymous,,Region #1,2.5,25,1.75,1,44,sales manager,united states,Female,Player 2,,,,,0.2,0.43,0.3,0.41,Somewhat positively,Strongly agree,Some experience,Some experience,"540
+280","500
+100","520
+120","500
+100","490
+90","500
+100","510
+510","500
+100","480
+100",,Clock,4384495,
+2017-02-07 18:12:53,2017-02-07 18:16:55,IP Address,68.51.159.184,100,241,True,2017-02-07 18:16:56,R_qIyXOy8IewFLr5n,,,,,42.266799926758,-83.856201171875,anonymous,,Region #1,5,4,2,2,23,student,American,Female,Player 1,0.1,0.65,0.29,0.61,,,,0.5,Somewhat positively,Somewhat agree,&nbsp;,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,5072603,
+2017-02-07 18:16:46,2017-02-07 18:19:38,IP Address,69.133.33.44,100,171,True,2017-02-07 18:19:39,R_29siT6189K8JFo5,,,,,39.638900756836,-84.404998779297,anonymous,,,1,1,0,0,54,Data Center Support,USA,Male,Player 1,0.1,0.5,0.15,0.5,,,,0.5,Somewhat positively,Strongly agree,&nbsp;,&nbsp;,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,,6380321,
+2017-02-07 18:16:48,2017-02-07 18:25:19,IP Address,41.182.197.145,100,510,True,2017-02-07 18:25:20,R_1N9Bbrs45BRm5VW,,,,,-19.233306884766,17.716705322266,anonymous,,,10,15,5,5,31,"IT Technician ","American ",Male,Player 2,,,,,0.5,1,0.5,0.6,Somewhat positively,Somewhat agree,Some experience,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,99130,
+2017-02-07 18:37:52,2017-02-07 18:41:39,IP Address,12.15.146.254,100,226,True,2017-02-07 18:41:40,R_2WUcbijCyLljByz,,,,,37.751007080078,-97.821998596191,anonymous,,,2,1.5,1,0,25,banking,"american ",Male,Player 2,,,,,0.1,0.5,0.1,0.5,Very positively,Strongly agree,Extensive experience,No experience at all,"540
+280",,,,,,,,,,Clock,6250669,
+2017-02-07 18:37:54,2017-02-07 18:43:31,IP Address,223.176.160.36,100,336,True,2017-02-07 18:43:33,R_6g6y4qTI2Dji8ZH,,,,,28.600006103516,77.200012207031,anonymous,,Region #1,2,5,1.5,1,30,Engineer,Indian,Male,Player 1,0.2,0.6,0.1,0.7,,,,0.6,Very positively,Strongly agree,Some experience,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,5671373,
+2017-02-07 18:42:35,2017-02-07 18:45:22,IP Address,23.255.203.111,100,167,True,2017-02-07 18:45:23,R_1zGb6eD3Z6fbw0V,,,,,39.057205200195,-94.593299865723,anonymous,,,0.01,2,0.1,1,26,Judicial Law Clerk,American,Male,Player 2,,,,,0.1,0.5,0.1,0.3,Somewhat negatively,Somewhat agree,&nbsp;,Some experience,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,,2142295,
+2017-02-07 18:42:35,2017-02-07 18:45:21,IP Address,66.25.58.149,100,166,True,2017-02-07 18:45:23,R_2aSWD2GIANP9jhv,,,,,33.001693725586,-96.844100952148,anonymous,,,1,3,1,0,27,research assistant,US,Female,Player 1,0,0.49,0.12,0.29,,,,0.22,Somewhat positively,Somewhat agree,Some experience,&nbsp;,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",,,253460,
+2017-02-07 19:39:47,2017-02-07 19:44:41,IP Address,187.245.172.183,100,294,True,2017-02-07 19:44:43,R_2wTsh655687yUB5,,,,,20.666702270508,-103.33329772949,anonymous,,,3,5,1,3,26,Therapist,Mexican,Male,Player 2,,,,,0.07,0.53,0.25,0.51,Somewhat positively,Somewhat agree,&nbsp;,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",,Clock,4028617,
+2017-02-07 19:39:48,2017-02-07 19:47:22,IP Address,68.44.83.214,100,453,True,2017-02-07 19:47:24,R_0wY5KIdlU37n3Pj,,,,,40.048294067383,-85.685501098633,anonymous,,Region #1,15,5,2,2,29,Student,American,Female,Player 1,0.03,0.81,0.2,0.5,,,,0.5,Very positively,Somewhat agree,No experience at all,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","540
+300",,Clock,6695115,
+2017-02-03 14:40:45,2017-02-03 14:47:02,IP Address,131.104.197.203,58,377,False,2017-02-10 14:47:05,R_aY2SbLK1pKCaDQd,,,,,,,anonymous,,,5,5,5,5,5,5,5,Male,Player 1,,,,,,,,0,Very negatively,Strongly disagree,,,,,,,,,,,,,,6409547,
+2017-02-06 18:29:14,2017-02-06 18:30:55,IP Address,71.82.48.160,19,100,False,2017-02-13 18:31:22,R_21G4f1No9lG0c7x,,,,,,,anonymous,,,3,5,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8676775,
+2017-02-06 18:37:02,2017-02-06 18:42:21,IP Address,157.50.144.144,62,319,False,2017-02-13 18:42:31,R_viWLjt8qOOESzrH,,,,,,,anonymous,,,50,20,10,20,32,business,India,Male,Player 1,0.69,0.84,0.6,0.71,,,,0.82,Very positively,Somewhat agree,Extensive experience,&nbsp;,,,,,,,,,,,,5841073,
+2017-02-06 18:49:30,2017-02-06 18:49:52,IP Address,50.137.142.118,4,22,False,2017-02-13 18:50:14,R_DTQ9UPYTqxmVq1P,,,,,,,anonymous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5374701,
+2017-02-06 18:54:07,2017-02-06 18:55:08,IP Address,47.138.51.167,31,61,False,2017-02-13 18:55:26,R_1JJzw6ot24QGVZN,,,,,,,anonymous,,,3,0.25,0,0.25,32,software consultant,US,Male,Player 1,,,,,,,,,,,,,,,,,,,,,,,,4432099,
+2017-02-06 18:58:41,2017-02-06 18:59:05,IP Address,71.90.120.152,4,24,False,2017-02-13 18:59:38,R_1mkPjDAlyPPyXMo,,,,,,,anonymous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3276313,
+2017-02-06 19:26:13,2017-02-06 19:26:34,IP Address,207.237.32.53,8,20,False,2017-02-13 19:26:53,R_3ESwzXQLEQzNgjs,,,,,,,anonymous,,,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6015431,

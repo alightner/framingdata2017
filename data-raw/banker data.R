@@ -5,15 +5,15 @@ library(dplyr)
 library(devtools)
 library(tidyverse)
 
-setwd("~/Desktop/MA Thesis/Treatment data")
-d <- read_csv("TimeSpent (accessed 2017-02-14) (1).csv")
-df <- read_csv("ultimatum_banker (accessed 2017-02-14) (1).csv")
-surv <- read_csv("Post-experiment+questionnaire+-+Treatment_February+14%2C+2017_05.05 (1).csv")
+#setwd("~/Desktop/MA Thesis/Treatment data")
+d <- read_csv("data-raw/TimeSpent (accessed 2017-02-14) (1).csv")
+df <- read_csv("data-raw/ultimatum_banker (accessed 2017-02-14) (1).csv")
+surv <- read_csv("data-raw/Post-experiment+questionnaire+-+Treatment_February+14%2C+2017_05.05 (1).csv")
 
-setwd("~/Desktop/MA Thesis/Banker data 2/banker 3")
-e <- read_csv("TimeSpent (accessed 2017-02-23) (1).csv")
-ef <- read_csv("ultimatum_banker (accessed 2017-02-23) (5).csv")
-surv2 <- read_csv("latest banker survey.csv")
+#setwd("~/Desktop/MA Thesis/Banker data 2/banker 3")
+e <- read_csv("data-raw/TimeSpent (accessed 2017-02-23) (1).csv")
+ef <- read_csv("data-raw/ultimatum_banker (accessed 2017-02-23) (5).csv")
+surv2 <- read_csv("data-raw/latest banker survey.csv")
 
 df <- df %>%
   rename(userid = participant.code)
@@ -241,7 +241,7 @@ ca$travel_exp <- factor(ca$travel_exp, levels = c('No experience at all',
 ca$travel_exp <- as.integer(ca$travel_exp)
 
 UG.banker <- ca
-setwd("~/Desktop/MA Thesis/framingdata2017")
+#setwd("~/Desktop/MA Thesis/framingdata2017")
 use_data(UG.banker, overwrite = TRUE)
 
 

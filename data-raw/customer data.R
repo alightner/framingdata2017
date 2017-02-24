@@ -5,15 +5,15 @@ library(dplyr)
 library(devtools)
 library(tidyverse)
 
-setwd("~/Desktop/MA Thesis/Treatment data")
-d <- read_csv("TimeSpent (accessed 2017-02-14) (1).csv")
-df <- read_csv("ultimatum_customer (accessed 2017-02-14) (1).csv")
-surv <- read_csv("Post-experiment+questionnaire+-+Treatment_February+14%2C+2017_05.05 (1).csv")
+#setwd("~/Desktop/MA Thesis/Treatment data")
+d <- read_csv("data-raw/TimeSpent (accessed 2017-02-14) (1).csv")
+df <- read_csv("data-raw/ultimatum_customer (accessed 2017-02-14) (1).csv")
+surv <- read_csv("data-raw/Post-experiment+questionnaire+-+Treatment_February+14%2C+2017_05.05 (1).csv")
 
-setwd("~/Desktop/MA Thesis/Customer data 2")
-e <- read_csv("TimeSpent (accessed 2017-02-20).csv")
-ef <- read_csv("ultimatum_customer (accessed 2017-02-20).csv")
-surv2 <- read_csv("Updated+-+Treatment+-+Copy_February+20%2C+2017_00.28 (1).csv")
+#setwd("~/Desktop/MA Thesis/Customer data 2")
+e <- read_csv("data-raw/TimeSpent (accessed 2017-02-20).csv")
+ef <- read_csv("data-raw/ultimatum_customer (accessed 2017-02-20).csv")
+surv2 <- read_csv("data-raw/Updated+-+Treatment+-+Copy_February+20%2C+2017_00.28 (1).csv")
 
 df <- df %>%
   rename(userid = participant.code)
@@ -247,7 +247,7 @@ ca$travel_exp <- as.integer(ca$travel_exp)
 
 UG.customer <- ca
 ### saves data to package with git commit ####
-setwd("~/Desktop/MA Thesis/framingdata2017")
+#setwd("~/Desktop/MA Thesis/framingdata2017")
 use_data(UG.customer, overwrite = TRUE)
 
 
