@@ -182,7 +182,7 @@ b <- b %>%
 c <- rbind(a,b)
 c <- subset(c, select = -c(
   label, isbot, pagenumber, maxpage,
-  round, pagename, ip, time, visited, subsessionround,
+  round, pagename, time, visited, subsessionround,
   session.label, session.experimenter_name, session.time_started,
   session.comment, StartDate, EndDate, Status, IPAddress, Progress,
   Finished, RecordedDate, RecipientLastName, RecipientFirstName,
