@@ -188,6 +188,8 @@ bank <- subset(bank, select = -c(
   RecipientEmail, ExternalReference, DistributionChannel))
 
 c <- bank
+rm(b); rm(b.reps); rm(bb); rm(d); rm(df); rm(e); rm(ef); rm(surv); rm(surv2)
+rm(reps); rm(bank)
 c$duration <- as.numeric(c$duration)
 c$LocationLatitude <- as.numeric(c$LocationLatitude)
 c$LocationLongitude <- as.numeric(c$LocationLongitude)
@@ -239,8 +241,8 @@ ca$travel_exp <- factor(ca$travel_exp, levels = c('No experience at all',
                                                   'Higher than average',
                                                   'Extensive experience'))
 ca$travel_exp <- as.integer(ca$travel_exp)
-
 UG.banker <- ca
+rm(ca); rm(c)
 #setwd("~/Desktop/MA Thesis/framingdata2017")
 use_data(UG.banker, overwrite = TRUE)
 

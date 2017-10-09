@@ -1,0 +1,820 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,Q39,Q39,Q42,Q44,Q46,Q48,Q1_1,Q1_2,Q1_3,Q30,Q13,Q24_1,Q24_2,Q24_3,Q25_1,Q23_1,Q23_2,Q26_1,Q27_1,Q6_1,Q7_1,Q8_1,Q8_2,Q50,Q52,Q54,Q56,Q58,Q60,Q62,Q64,Q66,Q54,Q55,Q31,Q31,mTurkCode,useridStart Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,This is the beginning of the survey.,This is the beginning of the survey. - Regions,"In real life, what percentage (0-100) amount do you consider to be a standard and fair bank fee for exchanging currency?",What percentage (0-100) amount do you consider to be a standard and fair brokerage commission fee for financial management services?,What percentage (0-100) amount do you consider to be a standard and fair service charge in an online transaction?,What percentage (0-100) amount do you consider to be a standard and fair ATM fee for withdrawing cash?,Your basic demographic information - Age (years),Your basic demographic information - Occupation,Your basic demographic information - Nationality,What is your gender?,What was your role during the experiment?,Please estimate the following about banker to the best of your ability: - Lowest bank fee ($0-1)  expected,Please estimate the following about banker to the best of your ability: - Highest bank fee ($0-1) expected,Please estimate the following about banker to the best of your ability: - Lowest acceptable bank fee ($0-1) for the banker,What is the highest bank fee ($0-1) you were willing to pay? - Bank fee ($),Please answer the following questions about the customer to the best of your ability: - Lowest bank fee ($0-1) expected,Please answer the following questions about the customer to the best of your ability: - Highest bank fee ($0-1) expected,What is the lowest bank fee ($0-1) that you considered an acceptable amount? - Bank fee ($),What do you think would have been a fair bank fee in this experiment ($0-1)? - Fair bank fee ($),How did you feel about your payoff at the end of the experiment? - How you felt about your payoff,How would you rate the following statement? - I thought the outcome of this experiment was fair,Please rank your experience level with the following: - Converting types of currency,Please rank your experience level with the following: - International travel,"For this final task, imagine you have been anonymously and randomly paired with another person, called â€œOther.â€ù Both you and the â€œOtherâ€ù person will make choices by selecting payoff sets. 
+
+ 
+
+Your choices will produce points for both yourself and the â€œOtherâ€ù person, and vice versa. Every point has value: the more points one receives, the better.
+ 
+
+    Hereâ€™s an example:
+
+
+
+
+  
+
+In this example, if you chose... 
+
+ 
+
+A: you receive 500 points; the other receives 100 points 
+
+B: you receive 500 points; the other receives 500 points  
+
+C: you receive 550 points; the other receives 300 points 
+
+ 
+
+So, you see that your choice influences both your points (on top) and the other's points (on bottom).
+
+ 
+
+To ensure that you are reading these instructions, you will see an image of a clock tower on a following page, indicating the end of the survey. When this occurs, please click on the clock or clock tower before continuing. You will then receive your payment information for this HIT.
+
+ 
+
+Before you begin making choices, please keep in mind that there are no right or wrong answers â€“ simply choose the option that you prefer most. 
+
+ 
+
+For each of the nine choice situations, select an option depending on which column you prefer most:",Q52,Q54,Q56,Q58,Q60,Q62,Q64,Q66,Do you think that you have you participated in any studies similar to this before? (**Note: your answer will not affect your payment in any way),Did you pay attention to the instructions and questions in this study?,You have reached the end of the survey. Your HIT ID number is on the following page.,You have reached the end of the survey. Your HIT ID number is on the following page. - Regions,mTurkCode,userid"{""ImportId"":""startDate""}","{""ImportId"":""endDate""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""QID47""}","{""ImportId"":""QID47_REGIONS""}","{""ImportId"":""QID49_TEXT""}","{""ImportId"":""QID50_TEXT""}","{""ImportId"":""QID51_TEXT""}","{""ImportId"":""QID52_TEXT""}","{""ImportId"":""QID1_1""}","{""ImportId"":""QID1_2""}","{""ImportId"":""QID1_3""}","{""ImportId"":""QID38""}","{""ImportId"":""QID48""}","{""ImportId"":""QID32_1""}","{""ImportId"":""QID32_2""}","{""ImportId"":""QID32_3""}","{""ImportId"":""QID33_1""}","{""ImportId"":""QID31_1""}","{""ImportId"":""QID31_2""}","{""ImportId"":""QID34_1""}","{""ImportId"":""QID35_1""}","{""ImportId"":""QID6_1""}","{""ImportId"":""QID7_1""}","{""ImportId"":""QID8_1""}","{""ImportId"":""QID8_2""}","{""ImportId"":""QID53""}","{""ImportId"":""QID54""}","{""ImportId"":""QID55""}","{""ImportId"":""QID56""}","{""ImportId"":""QID57""}","{""ImportId"":""QID58""}","{""ImportId"":""QID59""}","{""ImportId"":""QID60""}","{""ImportId"":""QID61""}","{""ImportId"":""QID62""}","{""ImportId"":""QID63""}","{""ImportId"":""QID39""}","{""ImportId"":""QID39_REGIONS""}","{""ImportId"":""mTurkCode""}","{""ImportId"":""userid""}"2/19/17 17:12,2/19/17 17:15,IP Address,67.186.29.207,100,136,TRUE,2/19/17 17:15,R_xl61skPCNCTiU4p,,,,,40.33560181,-79.55069733,anonymous,,Region #1,10,5,5,3,31,Programmer,American,Male,Customer,0.1,0.3,0.01,0.1,,,,0.1,Very positively,Strongly agree,Some experience,Higher than average,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",No,Yes,,,3209370,r8hb22ly2/19/17 17:13,2/19/17 17:15,IP Address,174.237.4.195,100,164,TRUE,2/19/17 17:15,R_emNozxjVnZtEmQN,,,,,35.08450317,-106.6511002,anonymous,,Other,50,15,10,5,35,,American,Male,Customer,0.19,0.49,0.1,0.1,,,,0.25,Somewhat negatively,Neither agree nor disagree,Lower than average,Lower than average,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",No,Yes,,,5033936,noyypoi42/19/17 17:12,2/19/17 17:15,IP Address,73.132.141.120,100,174,TRUE,2/19/17 17:15,R_2zIyBWJuvtGyQLU,,,,,39.55259705,-76.29820251,anonymous,,,30,5,2,2,26,"self, misc freelance",U.S. American,Male,Banker,,,,,0.1,0.59,0.1,0.5,Neutral,Somewhat agree,Lower than average,Lower than average,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",Yes,Yes,,Clock,3098447,ur1c3kxk2/19/17 17:13,2/19/17 17:15,IP Address,96.47.93.80,100,132,TRUE,2/19/17 17:15,R_3R1LZfL4msLhx1h,,,,,31.46270752,-85.62670135,anonymous,,Other,5,5,3,1,39,Manager,American,Female,Customer,0.25,0.5,0.1,0.25,,,,0.1,Neutral,Neither agree nor disagree,Some experience,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,,8548456,fwemxufs2/19/17 17:13,2/19/17 17:16,IP Address,96.18.138.109,100,165,TRUE,2/19/17 17:16,R_2fxQjKTY1cuAh9E,,,,,36.70280457,-96.95749664,anonymous,,,5,10,8,1,24,Translator,American,Male,Customer,0.11,0.85,0.13,0.05,,,,0.2,Somewhat negatively,Somewhat agree,Lower than average,Higher than average,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,,9249421,otg51ics2/19/17 17:14,2/19/17 17:16,IP Address,184.18.201.27,100,136,TRUE,2/19/17 17:16,R_1qh6Bosm49njUZv,,,,,41.13059998,-85.12889862,anonymous,,,0.15,15,15,5,30,homemaker,american,Female,Customer,0.05,0.5,0.05,0.25,,,,0.5,Somewhat positively,Somewhat disagree,Some experience,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,,8662273,9zif0isf2/19/17 17:14,2/19/17 17:17,IP Address,24.185.222.175,100,182,TRUE,2/19/17 17:17,R_6DVVg4vX97LWzrX,,,,,40.99189758,-72.19889832,anonymous,,,50,10,3,2.5,22,Student,American,Female,Banker,,,,,0.35,0.5,0.5,0.5,Somewhat negatively,Somewhat disagree,No experience at all,Some experience,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",No,Yes,,,4911587,kat70ru02/19/17 17:15,2/19/17 17:18,IP Address,108.232.86.71,100,196,TRUE,2/19/17 17:18,R_2zY0K19DtRMrhC7,,,,,41.92059326,-87.7016983,anonymous,,Other,8,5,2,5,25,self employed,american,Male,Banker,,,,,0.2,0.5,0.12,0.4,Somewhat negatively,Somewhat disagree,Some experience,Lower than average,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,Clock,551363,giganabl2/19/17 17:16,2/19/17 17:19,IP Address,104.2.10.117,100,153,TRUE,2/19/17 17:19,R_1roIW0DzwaJVTlG,,,,,40.11439514,-88.28130341,anonymous,,Other,2,2,0,0,33,Construction,USA,Male,Customer,0.5,0.69,0.39,0.5,,,,0.2,Somewhat positively,Somewhat agree,Some experience,Some experience,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",No,Yes,,,5102962,imnt05j52/19/17 17:15,2/19/17 17:19,IP Address,201.216.131.85,100,283,TRUE,2/19/17 17:19,R_ZElPY3fRUgAQLD3,,,,,14.63279724,-90.51989746,anonymous,,,7.5,10,3,2,21,Student,Guatemalan,Female,Customer,0.2,0.9,0.35,0.7,,,,0.25,Somewhat negatively,Neither agree nor disagree,Some experience,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,Clock,8661139,j8wu6waw2/19/17 17:14,2/19/17 17:20,IP Address,114.143.245.236,100,383,TRUE,2/19/17 17:20,R_3QGCbrKksOBQIU6,,,,,18.53329468,73.86669922,anonymous,,Region #1,0.1,0.2,0,0,32,Self Employed,Indian,Male,Customer,0.01,0.2,0.1,0.1,,,,0.1,Somewhat positively,Somewhat agree,Some experience,Lower than average,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",No,Yes,,Clock,283069,fj099tmh2/19/17 17:16,2/19/17 17:21,IP Address,75.109.96.69,100,270,TRUE,2/19/17 17:21,R_1jIYG7pEbZdDekN,,,,,38.40429688,-81.97019958,anonymous,,,5,15,5,3,,,,Female,Banker,,,,,0.5,1,1,1,Very positively,Strongly agree,No experience at all,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,,8597762,m05rpk942/19/17 17:20,2/19/17 17:21,IP Address,70.59.82.69,100,80,TRUE,2/19/17 17:21,R_323hRQzD2kGeqnc,,,,,45.02850342,-93.29889679,anonymous,,,50,20,2,5,21,IT Specialist,White,Male,Banker,,,,,0.4,0.54,0.83,0.44,Somewhat negatively,Somewhat agree,Higher than average,Lower than average,"540
+280","560
+300","580
+320","560
+300","500
+500","570
+300","560
+300","500
+500","490
+490",No,Yes,,,2268162,42g91ba22/19/17 17:17,2/19/17 17:21,IP Address,173.216.96.224,100,224,TRUE,2/19/17 17:21,R_1HPge482uHCLSPn,,,,,35.7881012,-91.64579773,anonymous,,,20,7,1,1,57,retired,,Male,Banker,,,,,0.09,0.4,0.2,0.1,Neutral,Neither agree nor disagree,No experience at all,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,Clock,5373272,b7xw6w0q2/19/17 17:18,2/19/17 17:21,IP Address,50.127.208.68,100,205,TRUE,2/19/17 17:21,R_OkCcvLx8khrY7ex,,,,,39.04849243,-83.16619873,anonymous,,,2,2,2,3,36,laborer,american,Male,Customer,0.52,0.65,0.29,0.1,,,,0.05,Neutral,Strongly disagree,Lower than average,Lower than average,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,,8906660,z4gpvn542/19/17 17:19,2/19/17 17:22,IP Address,69.251.76.116,100,188,TRUE,2/19/17 17:22,R_0cTt2oqj3uYmSkh,,,,,38.92129517,-77.03859711,anonymous,,,2,2,1,0,23,admin,USA,Female,Banker,,,,,0.08,0.18,0.03,0.08,Neutral,Neither agree nor disagree,Some experience,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,Clock,3879153,7uh28slb2/19/17 17:21,2/19/17 17:23,IP Address,104.246.38.178,100,164,TRUE,2/19/17 17:23,R_3QuyNACGAv4DxzH,,,,,40.68089294,-73.94629669,anonymous,,,10,10,1,0,28,poor,white,Male,Banker,,,,,0.01,0.01,0.01,0.06,Very negatively,Strongly disagree,Lower than average,Lower than average,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",No,Yes,,Clock,9349029,qtfd5m392/19/17 17:18,2/19/17 17:24,IP Address,74.74.91.32,100,378,TRUE,2/19/17 17:24,R_2c0dzqRxvSYPQjF,,,,,42.14599609,-76.09089661,anonymous,,,5,2,2,1,32,Lead Technology Specialist,White / American,Male,Banker,,,,,0.1,0.25,0.05,0.05,Somewhat negatively,Somewhat agree,No experience at all,No experience at all,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","510
+510","550
+300","540
+300",No,Yes,,,9777356,5v841otw2/19/17 17:23,2/19/17 17:26,IP Address,24.40.80.160,100,145,TRUE,2/19/17 17:26,R_2zUeVUluQ2pdwKP,,,,,37.0644989,-113.5746002,anonymous,,,20,5,10,5,25,IT Support,American,Male,Banker,,,,,0.6,0.8,1,0.99,Neutral,Somewhat agree,Higher than average,Extensive experience,"480
+480","500
+500","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",No,Yes,,,4765325,zhq9nedj2/19/17 17:25,2/19/17 17:26,IP Address,24.219.192.102,100,69,TRUE,2/19/17 17:26,R_1OZyH1ngD2FzJsO,,,,,37.26690674,-80.43250275,anonymous,,,10,20,20,10,21,sales,american,Male,Customer,0.38,0.41,0.33,0.52,,,,0.54,Neutral,Neither agree nor disagree,Some experience,Some experience,"540
+280","500
+500","520
+120","560
+300","500
+500","500
+100","560
+300","500
+100","490
+490",No,Yes,,,9073168,587aa6m12/19/17 17:20,2/19/17 17:27,IP Address,47.11.130.30,100,391,TRUE,2/19/17 17:27,R_1LRKNT2zAi1WqKT,,,,,20.23330688,85.83331299,anonymous,,Region #1,2,2,1,0,32,Manager,Indian,Male,Customer,0.01,0.1,0.07,0.02,,,,0.1,Neutral,Somewhat agree,Higher than average,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,Clock,9813747,s9ze1de72/19/17 17:25,2/19/17 17:28,IP Address,108.244.15.83,100,194,TRUE,2/19/17 17:28,R_ZluAXQPNttgCVHj,,,,,30.53349304,-92.11630249,anonymous,,,50,50,50,3,20,retail,usa,Male,Customer,0,1,0.51,0.5,,,,0.5,Neutral,Somewhat agree,Lower than average,Lower than average,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,Clock,2246287,c1cmdu3u2/19/17 17:26,2/19/17 17:30,IP Address,71.198.162.252,100,251,TRUE,2/19/17 17:30,R_9NpsPEemRm4WLHX,,,,,36.62489319,-121.8256989,anonymous,,Region #1,10,15,10,2,35,Teacher,American,Female,Customer,0.3,0.63,0.42,0.5,,,,0.4,Very positively,Strongly agree,Some experience,Some experience,,,,,,"570
+300",,,,No,Yes,,Clock,2787166,44lo5ymt2/19/17 17:26,2/19/17 17:30,IP Address,117.206.96.197,100,250,TRUE,2/19/17 17:30,R_2czNqXn9K7fj8Q2,,,,,11.3500061,77.73330688,anonymous,,Region #1,10,1,1.2,0.5,42,employee,india,Male,Banker,,,,,,,0.3,0.81,Somewhat positively,Strongly agree,Some experience,Some experience,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",No,Yes,,,1320048,yrumneaq2/19/17 17:28,2/19/17 17:31,IP Address,24.127.11.201,100,161,TRUE,2/19/17 17:31,R_1C700OlQVWqXVB4,,,,,42.5144043,-83.01589966,anonymous,,,10,5,1,1,45,clerical,white,Female,Banker,,,,,0.02,0.68,0.42,0.5,Very positively,Somewhat agree,Some experience,Lower than average,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,,1377467,fybjade92/19/17 17:28,2/19/17 17:31,IP Address,100.8.243.253,100,194,TRUE,2/19/17 17:31,R_1IaQUunZtpHsoIt,,,,,40.84829712,-73.97250366,anonymous,,Region #1,5,1,1,1,33,Claims analyst,Philippines,Male,Banker,,,,,0.1,0.5,0.1,0.5,Very negatively,Strongly disagree,No experience at all,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,Clock,2577239,at0hqw892/19/17 17:28,2/19/17 17:31,IP Address,24.90.180.91,100,192,TRUE,2/19/17 17:31,R_T4WOuVXYi8ZArvP,,,,,40.76159668,-73.79489899,anonymous,,Region #1,5,12,5,0,40,"Assistant Manager, Publishing Logistics",American,Female,Customer,0,1,0,0.2,,,,0.2,Very positively,Somewhat agree,Some experience,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",Yes,Yes,,,8444828,9t97zvwg2/19/17 17:30,2/19/17 17:33,IP Address,73.190.209.119,100,163,TRUE,2/19/17 17:33,R_276RNDTfrHZrxWB,,,,,33.49659729,-82.5286026,anonymous,,,5,10,2,1,32,HR,White,Female,Banker,,,,,0.17,0.35,,0.44,Neutral,Neither agree nor disagree,Higher than average,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,,4570367,haqg9h4p2/19/17 17:28,2/19/17 17:33,IP Address,108.252.222.18,100,311,TRUE,2/19/17 17:33,R_OPTXQpilePcrnCV,,,,,27.83929443,-97.60040283,anonymous,,,6,12,5,4,35,Food service,USA,Male,Customer,0.1,0.2,0.05,0.15,,,,0.05,Very positively,Strongly agree,Some experience,Some experience,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",No,Yes,,Clock,4560082,7y7zeoy12/19/17 17:27,2/19/17 17:34,IP Address,24.229.231.97,100,398,TRUE,2/19/17 17:34,R_3lFa46pCRQrM7Gj,,,,,40.623703,-75.62169647,anonymous,,,3,3,1.5,4,41,Accountant,American,Male,Banker,,,,,0.5,1,0.25,0.5,Somewhat positively,Somewhat agree,Lower than average,Some experience,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",No,Yes,,,4110069,hqsbbm012/19/17 17:27,2/19/17 17:34,IP Address,180.215.122.35,100,416,TRUE,2/19/17 17:34,R_1It55xbRD2tdzJT,,,,,13.08329773,80.28329468,anonymous,,,2.5,25,25,25,,,,,Customer,0.2,1,0.01,0.5,,,,0.5,Very positively,Strongly agree,Some experience,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,Clock,3011000,phdgg08n2/19/17 17:29,2/19/17 17:35,IP Address,108.185.235.3,100,370,TRUE,2/19/17 17:35,R_PImqSOn36JwsORP,,,,,34.43080139,-118.4645004,anonymous,,,10,1,0,0,47,Talent Management,American,Female,Customer,0,1,0,1,,,,1,Neutral,Neither agree nor disagree,No experience at all,No experience at all,"480
+80","500
+100","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",No,Yes,,Clock,4869978,hamrmmth2/19/17 17:35,2/19/17 17:38,IP Address,76.79.129.50,100,161,TRUE,2/19/17 17:38,R_2TGBtvdRyYeNCtv,,,,,34.1920929,-118.4924011,anonymous,,,3,1.5,1.5,2,38,software developer,United States,Female,Banker,,,,,0.03,0.1,0.02,0.03,Somewhat negatively,Somewhat disagree,Some experience,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,,7766411,jo02a4wv2/19/17 17:35,2/19/17 17:39,IP Address,72.48.2.96,100,233,TRUE,2/19/17 17:39,R_3M6akAlsgh2BCmZ,,,,,31.04499817,-97.50869751,anonymous,,,0.15,15,15,10,58,retired,USA,Female,Banker,,,,,0.09,0.41,0.15,0.15,Somewhat negatively,Neither agree nor disagree,Lower than average,Lower than average,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",No,Yes,,,2778186,qccw4a4b2/19/17 17:35,2/19/17 17:40,IP Address,24.229.231.97,100,266,TRUE,2/19/17 17:40,R_1OuERhyFr6xuMLd,,,,,40.623703,-75.62169647,anonymous,,,2,3,2,3,39,Teacher ,American ,Female,Customer,0.19,0.52,0.32,0.49,,,,0.53,Somewhat negatively,Somewhat disagree,Lower than average,Lower than average,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",No,Yes,,,4265509,h8fc9ucr2/19/17 17:38,2/19/17 17:44,IP Address,182.70.135.114,100,359,TRUE,2/19/17 17:44,R_2yl2DNAhB7mpkhQ,,,,,21.23330688,81.63330078,anonymous,,,10,5,5,1,22,Engineer,India,Male,Customer,0.5,0.6,0.3,0.2,,,,0.3,Neutral,Somewhat agree,No experience at all,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","540
+300",No,Yes,,Clock,8524474,fkkgpl6a2/19/17 17:42,2/19/17 17:45,IP Address,107.15.26.58,100,187,TRUE,2/19/17 17:45,R_3M3XJiTAQ3kx4Yl,,,,,36.07539368,-79.09970093,anonymous,,,25,25,5,0,31,none,Caucasion,Male,Banker,,,,,0,0.3,0.16,0.16,Somewhat positively,Somewhat agree,No experience at all,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",Yes,Yes,,Clock,1493625,65b54sw52/19/17 17:42,2/19/17 17:46,IP Address,108.6.19.78,100,260,TRUE,2/19/17 17:46,R_xho8wmO3UjA7TSV,,,,,40.72290039,-73.8423996,anonymous,,,6,3,2,4,61,Accountant,Caucasian American,Male,Customer,0.1,0.3,0.2,0.25,,,,0.15,Very positively,Strongly agree,Lower than average,Lower than average,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",Yes,Yes,,Clock,773083,iu589bps2/19/17 17:43,2/19/17 18:12,IP Address,108.212.142.253,100,1691,TRUE,2/19/17 18:12,R_2uB2gqsbZRJourv,,,,,39.82510376,-82.79579926,anonymous,,Other,5,5,2,1,48,Grants Adminstration,US,Male,Customer,,,,,,,,1,Neutral,Somewhat disagree,No experience at all,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,Clock,9927602,dpkbl3jy2/19/17 18:10,2/19/17 18:12,IP Address,202.12.80.8,100,151,TRUE,2/19/17 18:12,R_3sgDtH73nI0So90,,,,,12.86390686,74.83529663,anonymous,,,25,25,15,2,33,engineer,indian,Male,Customer,0.39,0.42,0.35,0.18,,,,0.3,Somewhat positively,Neither agree nor disagree,Some experience,Some experience,"540
+280","500
+500","580
+320","560
+300","500
+500","500
+100","560
+300","500
+500","540
+300",No,Yes,,,182148,mfdyl3i42/19/17 18:08,2/19/17 18:13,IP Address,24.17.17.176,100,246,TRUE,2/19/17 18:13,R_2QKa9vIHpg22mWM,,,,,47.67379761,-122.3419037,anonymous,,,10,20,2,2,35,Sign Artist,American,Male,Customer,0,0.5,0.4,0.5,,,,0.25,Somewhat positively,Strongly agree,No experience at all,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,Clock,7981259,hzimnpdv2/19/17 18:08,2/19/17 18:13,IP Address,98.23.95.51,100,278,TRUE,2/19/17 18:13,R_1gpFVfHmkHBACM9,,,,,37.86470032,-84.56420135,anonymous,,Other,50,50,20,1,,,,Female,Customer,0.5,0.49,0.55,0.5,,,,0.49,Neutral,Somewhat agree,Some experience,Lower than average,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",No,Yes,,,9010977,s3vkzjem2/19/17 18:12,2/19/17 18:13,IP Address,76.18.227.225,100,116,TRUE,2/19/17 18:13,R_2DUD24MUaouwfqx,,,,,30.30430603,-81.73059845,anonymous,,,30,15,15,1,34,Secretary,USA,Female,Banker,,,,,0.3,0.51,0.29,0.5,Somewhat negatively,Neither agree nor disagree,Lower than average,Lower than average,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,,3168320,cbdxjv502/19/17 18:11,2/19/17 18:15,IP Address,68.0.123.112,100,246,TRUE,2/19/17 18:15,R_3FWCpj21V4pt7VT,,,,,36.146698,-95.95549774,anonymous,,,3,2,1,0,35,technical support,USA,Female,Customer,0.05,0.3,0.03,0.25,,,,0.1,Somewhat positively,Somewhat agree,Lower than average,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,,2526316,ofw9sqt12/19/17 18:10,2/19/17 18:16,IP Address,101.222.230.202,100,333,TRUE,2/19/17 18:16,R_2uZZBxXb1PGSWHk,,,,,10.80499268,78.68560791,anonymous,,,5,2,0.5,0,21,student,indian,Male,Customer,,,,0.2,,,,0.19,Neutral,Somewhat agree,Lower than average,No experience at all,"480
+80","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",Yes,Yes,,,5809092,exb1bjgg2/19/17 18:14,2/19/17 18:17,IP Address,12.196.94.50,100,179,TRUE,2/19/17 18:17,R_3Pe6unk5mzZj1vD,,,,,42.57670593,-70.95490265,anonymous,,,3,4,2,3,44,homemaker,usa,Female,Banker,,,,,0.01,0.31,0.2,0.3,Somewhat negatively,Somewhat disagree,No experience at all,Lower than average,,"500
+500",,,,,,,,No,Yes,,Clock,678160,z7lkpm3m2/19/17 18:11,2/19/17 18:19,IP Address,49.35.2.26,100,449,TRUE,2/19/17 18:19,R_3EZ8j3at8ZNdkTp,,,,,18.53329468,73.86669922,anonymous,,,5,5,2,1,25,Web developer,Indian,Male,Banker,,,,,0.5,0.97,0.5,0.5,Neutral,Somewhat agree,Lower than average,No experience at all,"480
+480","500
+500","520
+520","560
+300","500
+500","500
+500","560
+300","500
+500","490
+490",No,Yes,,Clock,4991236,m4w43xoo2/19/17 18:18,2/19/17 18:22,IP Address,74.130.98.253,100,220,TRUE,2/19/17 18:22,R_3fjg6TAov4Bj39h,,,,,36.63549805,-88.28299713,anonymous,,,2,4,1,2,45,artist,usa,Male,Banker,,,,,0.24,0.5,0.5,0.5,Very negatively,Strongly disagree,Lower than average,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,Clock,2934662,o9z4fd9j2/19/17 18:14,2/19/17 18:23,IP Address,99.110.234.146,100,500,TRUE,2/19/17 18:23,R_1NlTNrgQcZrlM82,,,,,34.020401,-84.24449921,anonymous,,Region #1,3,5,2,5,42,Non-profit,USA,Male,Customer,0.5,0.8,0.2,0.8,,,,0.7,Somewhat positively,Somewhat agree,Lower than average,Some experience,"540
+280","500
+500","580
+320","560
+300","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,Clock,3388821,8g8eukyg2/19/17 18:23,2/19/17 18:24,IP Address,173.79.234.136,100,108,TRUE,2/19/17 18:24,R_2t9DG0e3vJcNQ9P,,,,,38.67799377,-77.31970215,anonymous,,,3,2,0,0,37,Consultant,American,Male,Customer,0.08,0.48,1,0.27,,,,0.08,Very negatively,Somewhat disagree,Higher than average,Higher than average,"480
+480","500
+500","520
+520","560
+300","500
+500","570
+300","560
+300","500
+500","490
+490",Yes,Yes,,,7725359,vwzesj1q2/19/17 18:18,2/19/17 18:26,IP Address,137.97.1.120,100,486,TRUE,2/19/17 18:26,R_27wilYu1KkOrc7t,,,,,9.966705322,76.23330688,anonymous,,,5,5,5,6,22,Accounts,Indian,Male,Customer,0.29,0.62,0.4,0.43,,,,0.52,Neutral,Somewhat disagree,Higher than average,Lower than average,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,,9197655,bt2a4a7q2/19/17 18:27,2/19/17 18:31,IP Address,73.217.38.207,100,260,TRUE,2/19/17 18:31,R_1LnHFVxae2EVh4v,,,,,40.47239685,-104.893898,anonymous,,,1,20,2,1,57,"Receptionist, CVA",US,Female,Banker,,,,,1,1,1,1,Somewhat positively,Somewhat agree,Lower than average,Lower than average,"540
+280","560
+300","580
+320","560
+300","500
+500","500
+100","560
+300","550
+300","540
+300",No,Yes,,Clock,4645127,zbuda95p2/19/17 18:27,2/19/17 18:32,IP Address,74.89.196.80,100,307,TRUE,2/19/17 18:32,R_1NtB5XXaWCLCqaF,,,,,41.06390381,-72.42900085,anonymous,,Region #1,5,8,5,2,,,,Male,Customer,0.18,0.31,0.14,0.24,,,,0.15,Somewhat positively,Somewhat agree,Some experience,Lower than average,"480
+480","500
+500","580
+320","490
+490","500
+500","500
+500","560
+300","500
+500","490
+490",No,Yes,,Clock,4395061,7xf39o3e2/19/17 18:29,2/19/17 18:33,IP Address,47.36.169.196,100,252,TRUE,2/19/17 18:33,R_SVLkkmUOoEIqSLD,,,,,43.21789551,-123.4020996,anonymous,,,5,7,5,1,36,Sales,USA ,Male,Banker,,,,,0.3,0.5,0.2,0.25,Somewhat negatively,Somewhat disagree,Some experience,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,Clock,3917903,ew8rprmn2/19/17 18:29,2/19/17 18:37,IP Address,160.164.209.194,100,487,TRUE,2/19/17 18:37,R_3nMFEz224OANMy9,,,,,34.01379395,-6.844299316,anonymous,,,0.15,0.1,0.05,0.2,54,project leader,canadian,Female,Customer,0.05,0.19,0.1,0.05,,,,0.1,Neutral,Neither agree nor disagree,Some experience,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",Yes,Yes,,,3418353,udekdxg62/19/17 18:33,2/19/17 18:39,IP Address,172.97.7.163,100,340,TRUE,2/19/17 18:39,R_ToAbCrr9IdZMqMp,,,,,34.06970215,-103.3305969,anonymous,,Region #1,2,8,1,1,30,Retail Sales Associate,American,Male,Banker,,,,,0.1,1,1,1,Neutral,Strongly agree,Some experience,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,,3046353,t4k91m662/19/17 18:37,2/19/17 18:41,IP Address,115.249.201.93,100,232,TRUE,2/19/17 18:41,R_2QmQZZqNBSS93xg,,,,,10.38330078,78.81671143,anonymous,,,20,5,5,2,32,Business,Indian,Male,Customer,0.18,0.46,0.27,0.51,,,,0.19,Neutral,Neither agree nor disagree,Higher than average,Some experience,"540
+280","500
+500","520
+520","490
+490","560
+300","500
+100","510
+510","500
+100","540
+300",Yes,Yes,,,7595671,7gjz4wye2/19/17 18:37,2/19/17 18:42,IP Address,47.150.180.8,100,271,TRUE,2/19/17 18:42,R_3qPfR8hZteL3FLz,,,,,34.4954071,-117.3685989,anonymous,,,3,6,3,1,51,Homemaker,American,Female,Customer,0.03,0.1,0.01,0.05,,,,1,Somewhat positively,Somewhat agree,Lower than average,Lower than average,,"500
+500","520
+520",,,,,,,No,Yes,,Clock,3136719,8l98ptsv2/19/17 18:46,2/19/17 18:51,IP Address,68.63.115.4,100,339,TRUE,2/19/17 18:51,R_eKkNNwNKNXZv66d,,,,,33.33230591,-87.47409821,anonymous,,,10,3,3,3,70,retired,USA,Female,Customer,0.1,0.95,0.05,0.5,,,,0.1,Neutral,Neither agree nor disagree,No experience at all,No experience at all,,"500
+500",,,,,,,,No,Yes,,Clock,4232961,fdtjvihj2/19/17 18:46,2/19/17 18:53,IP Address,151.237.173.118,100,446,TRUE,2/19/17 18:53,R_2D7AoZpczznMmNw,,,,,53.75,87.1000061,anonymous,,Region #1,2,5,1,0,,,,,Banker,,,,,0,1,0.5,0.1,Somewhat positively,Somewhat disagree,Higher than average,Higher than average,,,"520
+520",,,,,,,No,Yes,,Clock,3034535,67lr6bsq2/19/17 18:55,2/19/17 18:58,IP Address,27.7.126.202,100,207,TRUE,2/19/17 18:58,R_2b1xDXylQKYsVXH,,,,,12.98330688,77.58331299,anonymous,,,10,10,5,9,35,engineer,American,Male,Customer,0.41,0.07,0.02,0.18,,,,0.12,Neutral,Somewhat agree,Higher than average,Extensive experience,"480
+80","500
+500","520
+520","500
+100","490
+90","500
+100","510
+110","500
+100","480
+100",No,Yes,,,6090347,wem95d1s2/19/17 18:55,2/19/17 18:59,IP Address,117.199.140.206,100,279,TRUE,2/19/17 18:59,R_03qT25P3azTOaaZ,,,,,9.933303833,78.11669922,anonymous,,,50,0.01,0,0,47,Course Development Executive,Indian,Female,Banker,,,,,,,0.04,0.02,Very negatively,Somewhat disagree,Lower than average,Lower than average,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,Clock,6386516,120r5dx22/19/17 18:57,2/19/17 19:01,IP Address,174.71.60.245,100,273,TRUE,2/19/17 19:01,R_3EiJivL08KETRFC,,,,,41.29930115,-96.16660309,anonymous,,Other,1,1,0,0,37,Business Analyst,USA,Male,Customer,0.2,0.5,0.3,0.5,,,,0.5,Somewhat positively,Somewhat agree,Some experience,Some experience,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",Yes,Yes,,Clock,1334746,hoohrul12/19/17 18:59,2/19/17 19:04,IP Address,71.35.39.46,100,264,TRUE,2/19/17 19:04,R_1lhOWN6d4XkpR6F,,,,,33.45489502,-112.0776978,anonymous,,Region #1,1,1,1,1,63,retired civil service,american,Male,Banker,,,,,0,0.1,0,0.05,Neutral,Somewhat disagree,Lower than average,Lower than average,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,Clock,1937618,ofh98jkb2/19/17 18:59,2/19/17 19:07,IP Address,49.206.126.181,100,469,TRUE,2/19/17 19:07,R_3GkNcEnSAJRKtUE,,,,,13.08329773,80.28329468,anonymous,,Region #1,1,0.5,0.5,0,62,Retired,Indian,Male,Customer,0.01,1,0.5,1,,,,1,Very positively,Strongly agree,Lower than average,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,Clock,7341327,o5du9h282/19/17 19:03,2/19/17 19:10,IP Address,178.62.137.173,100,411,TRUE,2/19/17 19:10,R_sFGhGS6NHjzAXD3,,,,,52.29640198,4.954101563,anonymous,,,3,3,1,0,19,Srudent,Turkey,Male,Customer,0.01,0.5,0.01,0.5,,,,0.25,Neutral,Neither agree nor disagree,Lower than average,Lower than average,,,"520
+520",,,,,,,No,Yes,,Clock,5406988,j5ljsu9k2/19/17 19:12,2/19/17 19:16,IP Address,96.245.29.181,100,228,TRUE,2/19/17 19:16,R_1QmftoOw7I6pfnx,,,,,40.61520386,-75.54370117,anonymous,,,5,5,2,1,42,homemaker,usa,Female,Customer,0.19,0.81,0.28,0.3,,,,0.08,Very negatively,Strongly disagree,Lower than average,Lower than average,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",No,Yes,,,8473112,y7iduxka2/19/17 19:15,2/19/17 19:18,IP Address,104.5.25.248,100,173,TRUE,2/19/17 19:18,R_24ID17pfWrJ8HVB,,,,,29.36610413,-98.37670135,anonymous,,Region #1,5,10,5,5,34,Project Coordinator,American,Male,Customer,0.3,1,0.11,0.33,,,,0.15,Somewhat positively,Somewhat agree,Some experience,Higher than average,"480
+480","500
+500","520
+520","490
+490","560
+300","500
+500","510
+510","500
+500","490
+490",No,Yes,,,8595212,xwwphdfj2/19/17 19:14,2/19/17 19:19,IP Address,172.58.168.58,100,325,TRUE,2/19/17 19:19,R_2sbBrkybjqPS2sJ,,,,,27.94749451,-82.45839691,anonymous,,,5,5,5,0,32,secretary,Africa American,Female,Customer,0.51,1,0.08,0.72,,,,1,Very negatively,Strongly disagree,Some experience,Some experience,"480
+480","500
+500","580
+320","560
+300","500
+500","570
+300","510
+510","550
+300","540
+300",No,Yes,,Clock,3199380,qnuqxux62/19/17 19:15,2/19/17 19:20,IP Address,96.41.14.34,100,289,TRUE,2/19/17 19:20,R_W9BS3q187rfOeKR,,,,,34.05140686,-118.1455994,anonymous,,,18,5,5,1,58,sales,american,Male,Banker,,,,,0.2,0.8,0.06,0.08,Neutral,Somewhat agree,Lower than average,Lower than average,"480
+80","500
+100","520
+120","500
+100","490
+90","500
+100","510
+110","500
+100","480
+100",No,Yes,,Clock,29766,99lo02a32/19/17 19:17,2/19/17 19:21,IP Address,73.159.48.240,100,213,TRUE,2/19/17 19:21,R_2VecrzjN5yj7LzG,,,,,41.71940613,-70.4803009,anonymous,,,5,5,1,1,27,Home Builder,American,Male,Customer,1,1,0.52,0.51,,,,0.5,Very positively,Strongly agree,Extensive experience,Extensive experience,"540
+280","560
+300","520
+120","500
+100","500
+500","500
+500","560
+300","550
+300","540
+300",No,Yes,,,8384081,51pci1th2/19/17 19:17,2/19/17 19:21,IP Address,72.200.91.51,100,231,TRUE,2/19/17 19:21,R_1r6scMQBi4s9RL4,,,,,32.2131958,-110.8872986,anonymous,,Region #1,3,5,1,3,31,self employed,USA,Female,Banker,,,,,0,0.5,0.1,0.5,Somewhat negatively,Somewhat disagree,Lower than average,Lower than average,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,Clock,1679700,29m5xgna2/19/17 19:20,2/19/17 19:25,IP Address,198.210.64.193,100,265,TRUE,2/19/17 19:25,R_3oGw0TZcIxY9gn0,,,,,38.85609436,-98.87850189,anonymous,,,5,5,2,2,51,driver,USA,Female,Customer,0.08,0.5,0.39,0.5,,,,0.5,Very positively,Strongly agree,Lower than average,Lower than average,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,,3383034,bmr4wkyl2/19/17 19:21,2/19/17 19:25,IP Address,71.102.102.222,100,277,TRUE,2/19/17 19:25,R_3iR5283m34KMHLh,,,,,41.2808075,-75.89620209,anonymous,,,50,25,5,0,40,Homemaker,White,Female,Customer,0.1,1,0.6,0.51,,,,0.1,Somewhat negatively,Strongly disagree,No experience at all,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",Yes,Yes,,,9748184,gimtqn5r2/19/17 19:23,2/19/17 19:26,IP Address,172.58.121.55,100,159,TRUE,2/19/17 19:26,R_3nMgp5rtGO0JCwf,,,,,42.39549255,-83.13809967,anonymous,,,3,3,0,0,33,researcher,USA,Male,Customer,0.39,0.5,0.41,0.91,,,,0.5,Somewhat negatively,Neither agree nor disagree,Extensive experience,Extensive experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","540
+300",No,Yes,,,6636258,jtzz7z4x2/19/17 19:24,2/19/17 19:27,IP Address,73.185.176.198,100,189,TRUE,2/19/17 19:27,R_3NEW2hNYm7DK9Qg,,,,,45.07240295,-93.18740082,anonymous,,Region #1,10,5,1,1,,,,Male,Banker,,,,,0.1,0.2,0.1,0.1,Somewhat negatively,Somewhat disagree,Lower than average,Lower than average,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,,842002,mcgxb4va2/19/17 19:25,2/19/17 19:31,IP Address,66.69.243.166,100,363,TRUE,2/19/17 19:31,R_1Hizp6CGw4VtvYf,,,,,30.1678009,-97.82250214,anonymous,,,1,5,0,0,64,retired,American,Female,Banker,,,,,0,0.09,0.1,0.1,Neutral,Somewhat disagree,Some experience,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,Clock,3308852,lu91xnhm2/19/17 19:24,2/19/17 19:33,IP Address,157.48.2.2,100,547,TRUE,2/19/17 19:33,R_2uQwOWDbHzmiuih,,,,,17.37530518,78.47439575,anonymous,,Other,5,2,2,1,31,Employee ,Indian,Male,Customer,,0.05,0.1,0.1,,,,0.51,Somewhat negatively,Somewhat agree,Higher than average,Some experience,"540
+280","500
+500","520
+120","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,,6656372,6w7p9khp2/19/17 19:32,2/19/17 19:35,IP Address,104.56.103.98,100,160,TRUE,2/19/17 19:35,R_2WOkYh35uNzYaHK,,,,,38.51210022,-89.89980316,anonymous,,,0.05,5,3,0,32,PA,British,Female,Customer,0.2,0.5,0.5,0.2,,,,0.2,Somewhat negatively,Somewhat disagree,Higher than average,Higher than average,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",Yes,Yes,,,1324904,y1o0saxm2/19/17 19:34,2/19/17 19:37,IP Address,50.182.30.159,100,181,TRUE,2/19/17 19:37,R_R7WUPDZWq2Tyry9,,,,,39.9571991,-74.91619873,anonymous,,Region #1,15,15,5,1,41,Manager,White,,Banker,,,,,0.13,0.21,0.2,0.25,Neutral,Somewhat agree,Some experience,Lower than average,"480
+480","560
+300","580
+320","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,Clock,264205,4zkrjc282/19/17 19:34,2/19/17 19:38,IP Address,99.195.174.31,100,248,TRUE,2/19/17 19:38,R_UtBW0NAh5WFen5v,,,,,30.74090576,-92.34549713,anonymous,,,10,6,5,2,44,driver,American,Male,Customer,0.1,0.3,0.25,0.3,,,,0.15,Very positively,Strongly agree,No experience at all,No experience at all,"480
+480","500
+500","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",No,Yes,,,689835,oluf3sat2/19/17 19:36,2/19/17 19:40,IP Address,166.255.181.67,100,240,TRUE,2/19/17 19:40,R_2UVOihlq5hdu3X6,,,,,36.11889648,-115.1232986,anonymous,,Region #1,5,5,2.5,1,35,Self Employed - Pet sales,USA,Male,Banker,,,,,0.2,0.5,0.2,0.5,Somewhat negatively,Somewhat disagree,Lower than average,Lower than average,"540
+280","500
+500","520
+520","560
+300","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,Clock,144507,c9dasdq22/19/17 19:39,2/19/17 19:42,IP Address,71.71.214.245,100,214,TRUE,2/19/17 19:42,R_2t5r4ENvNvUJu7x,,,,,35.19540405,-80.82540131,anonymous,,,5,0.5,0,0,49,Secretary,American,Female,Banker,,,,,0,0.5,0.05,0.05,Neutral,Strongly agree,Extensive experience,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,Clock,8425386,u83c3xkw2/19/17 19:38,2/19/17 19:42,IP Address,59.99.80.160,100,233,TRUE,2/19/17 19:42,R_zdvI7mPi5ocygO5,,,,,9.699996948,78.48330688,anonymous,,,1,2,1,1,36,business,indian,Male,Customer,0.2,0.8,,0.3,,,,0.2,Somewhat negatively,Somewhat agree,Some experience,Lower than average,"480
+480","500
+500","580
+320","490
+490","500
+500","500
+500","560
+300","500
+500","540
+300",No,Yes,,Clock,2885392,lr3dbi0d2/19/17 19:36,2/19/17 19:43,IP Address,157.48.6.126,100,454,TRUE,2/19/17 19:43,R_1luZxOndIAVUW1Q,,,,,17.37530518,78.47439575,anonymous,,,5,1,0.2,0.6,,,,Male,Customer,0.66,0.42,0.27,0.7,,,,0.76,Very positively,Strongly agree,Some experience,Some experience,"480
+80","500
+100","520
+120","500
+100","490
+90","500
+100","510
+110","500
+100","480
+100",Yes,Yes,,Other,4877926,i33113362/19/17 19:39,2/19/17 19:44,IP Address,74.136.37.169,100,315,TRUE,2/19/17 19:44,R_3lY4LPxbWuhXJ3a,,,,,38.13459778,-84.4957962,anonymous,,,5,10,5,1,50,driver,american,Male,Customer,0.03,0.23,0.15,0.01,,,,0.2,Neutral,Strongly disagree,No experience at all,No experience at all,"540
+280","560
+300","520
+120","500
+100","560
+300","500
+100","510
+110","500
+100","480
+100",No,Yes,,,8893168,6iv0g5ny2/19/17 19:43,2/19/17 19:45,IP Address,69.181.210.97,100,119,TRUE,2/19/17 19:45,R_2TzM8UBANUhMjol,,,,,37.35369873,-122.0307007,anonymous,,,5,5,2,2,24,Unemployed,Japanese,Male,Banker,,,,,0.01,0.2,0.1,0.1,Neutral,Neither agree nor disagree,Some experience,Some experience,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",No,Yes,,,2671747,as1az3f32/19/17 19:40,2/19/17 19:47,IP Address,184.53.32.135,100,426,TRUE,2/19/17 19:47,R_VXp1TntbjjeFhiV,,,,,37.75100708,-97.8219986,anonymous,,Region #1,0.1,25,0,0,43,Self Employed,White from USA,Female,Customer,0.05,1,0.05,0.05,,,,0.05,Neutral,Somewhat agree,Some experience,Some experience,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",Yes,Yes,,Clock,2686074,yv138lgc2/19/17 19:43,2/19/17 19:49,IP Address,73.182.38.182,100,366,TRUE,2/19/17 19:49,R_3KvCrGzLo8fO8c8,,,,,32.09570313,-81.25309753,anonymous,,,25,65,30,5,43,Truck driver/warehouse processor,White,Male,Banker,,,,,0.1,0.9,0.2,0.2,Very positively,Strongly agree,Some experience,Lower than average,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","510
+510","500
+500","490
+490",No,Yes,,Clock,3136796,1er0l0tc2/19/17 20:24,2/19/17 20:31,IP Address,14.96.42.210,100,439,TRUE,2/19/17 20:31,R_2ccGGp7vcGUsWqe,,,,,20,77,anonymous,,Region #1,1,1,1,0,54,Manager,Indian,Male,Banker,,,,,0.04,0.18,0.08,0,Somewhat positively,Strongly agree,Some experience,Some experience,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",No,Yes,,Clock,5765328,gw2hoprq2/19/17 20:38,2/19/17 20:45,IP Address,112.201.195.44,100,392,TRUE,2/19/17 20:45,R_3JaBDVH8AJ5CrKH,,,,,10.31109619,123.8916931,anonymous,,Region #1,10,10,5,5,31,,,Female,Banker,,,,,1,1,1,0.01,Very negatively,Strongly disagree,Lower than average,Lower than average,"540
+280","560
+300","580
+320","560
+300","560
+300","570
+300","560
+300","550
+300","540
+300",Yes,Yes,,Clock,9430659,7bjd2cff2/19/17 21:45,2/19/17 21:49,IP Address,72.241.165.95,100,200,TRUE,2/19/17 21:49,R_1Iaq4vZuf1soZZH,,,,,41.70350647,-83.60520172,anonymous,,Region #1,25,30,10,5,26,Student,USA,Male,Banker,,,,,0.05,0.2,0.15,0.2,Neutral,Somewhat agree,Lower than average,No experience at all,"480
+480","500
+500","520
+520","490
+490","500
+500","500
+500","560
+300","500
+500","490
+490",No,Yes,,Clock,8145236,d0c007ix2/19/17 17:14,2/19/17 17:15,IP Address,99.185.74.178,4,43,FALSE,2/26/17 17:15,R_3PTRIYbLbNJ9Di6,,,,,,,anonymous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6916719,p1azbgj62/19/17 17:18,2/19/17 17:19,IP Address,101.222.167.198,18,72,FALSE,2/26/17 17:19,R_324J93i7C1BVBEj,,,,,,,anonymous,,,40,25,35,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9463793,gf8k5c1r2/19/17 17:19,2/19/17 17:21,IP Address,50.49.203.67,29,105,FALSE,2/26/17 17:21,R_1int1NjyFhqxubm,,,,,,,anonymous,,,5,10,5,2,43,Administrative Assistant,American,Female,Customer,,,,,,,,,,,,,,,,,,,,,,,,,,160014,k3tvhl5n2/19/17 17:20,2/19/17 17:21,IP Address,24.101.128.25,7,64,FALSE,2/26/17 17:21,R_Rt6eyAEMcsyvvK9,,,,,,,anonymous,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2813732,ox7ouysv2/19/17 17:30,2/19/17 17:31,IP Address,23.226.163.196,7,41,FALSE,2/26/17 17:31,R_W1fHfJHlaEGi9cR,,,,,,,anonymous,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9047139,40vw7lj12/19/17 17:47,2/19/17 17:48,IP Address,108.6.19.78,4,101,FALSE,2/26/17 17:49,R_3MgnjMdGBm2E7YK,,,,,,,anonymous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3215218,iu589bps2/19/17 18:11,2/19/17 18:14,IP Address,47.183.29.144,29,135,FALSE,2/26/17 18:14,R_3OknHhWHvRXpEfe,,,,,,,anonymous,,Region #1,1,1,0,0,53,unemployed entomologist,USA,Female,Customer,,,,,,,,,,,,,,,,,,,,,,,,,,9890458,is9t4g1z2/19/17 18:52,2/19/17 18:53,IP Address,68.63.115.4,4,20,FALSE,2/26/17 18:53,R_06vgF4flTYcgaSl,,,,,,,anonymous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8986249,fdtjvihj2/19/17 19:20,2/19/17 19:21,IP Address,38.140.158.26,7,44,FALSE,2/26/17 19:21,R_1FqRPazgwCRLIFh,,,,,,,anonymous,,,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,558000,eiplkm322/19/17 19:25,2/19/17 19:26,IP Address,198.210.64.193,4,37,FALSE,2/26/17 19:26,R_3s7DqZuQ2y6H3ao,,,,,,,anonymous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7428893,bmr4wkyl2/19/17 19:45,2/19/17 19:47,IP Address,74.136.37.169,4,115,FALSE,2/26/17 19:47,R_1LBiEgDTXSuATiC,,,,,,,anonymous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6522959,6iv0g5ny2/19/17 17:21,2/19/17 17:22,IP Address,108.244.15.83,29,90,FALSE,2/26/17 21:58,R_1rGjEWq4TPJ1dpQ,,,,,,,anonymous,,Region #1,30,30,30,1,42,manager,usa,Female,Customer,,,,,,,,,,,,,,,,,,,,,,,,,,746979,yd9g2m9u2/19/17 18:57,2/19/17 18:57,IP Address,64.222.164.46,7,41,FALSE,2/26/17 22:05,R_3rVBi2nWqFaqtHk,,,,,,,anonymous,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1394555,bhsungm5
